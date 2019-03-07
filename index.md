@@ -4,3 +4,8 @@
 
 layout: home
 ---
+# Kyle Grover's
+- services
+- client work
+- projects
+- bio & contact

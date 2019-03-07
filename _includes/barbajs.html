@@ -1,0 +1,25 @@
+<script>
+// start barba
+Barba.Pjax.start();
+// enable prefetching
+Barba.Prefetch.init();
+
+var HideShowTransition = Barba.BaseTransition.extend({
+  start: function() {
+    this.newContainerLoading.then(this.finish.bind(this));
+    console.log('transition start');
+    
+  },
+
+  finish: function() {
+    document.body.scrollTop = 0;
+    console.log('transition doneso');
+    this.done();
+  }
+});
+
+Barba.Pjax.getTransition = function() {
+    // logic to choose which transition
+    return HideShowTransition;
+};
+</script>

@@ -83,6 +83,7 @@ ul, ol {
 }
 
 li {
+  text-align: left;
   > ul,
   > ol {
     margin-bottom: 0;
@@ -95,10 +96,14 @@ li {
  * Headings
  */
 h1, h2, h3, h4, h5, h6 {
-  font-weight: $base-font-weight;
+  font-weight: $display-font-weight;
+  text-align: left;
 }
 
-
+p {
+  font-family: $paragraph-font-family;
+  text-align: left;
+}
 
 /**
  * Links
@@ -182,7 +187,6 @@ pre {
   margin-left: auto;
   padding-right: $spacing-unit / 2;
   padding-left: $spacing-unit / 2;
-  @extend %clearfix;
 
   @media screen and (min-width: $on-large) {
     max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
@@ -193,44 +197,11 @@ pre {
 }
 
 
-
-/**
- * Clearfix
- */
-%clearfix:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
-
-
-/**
- * Icons
- */
-
-.orange {
-  color: $orange-color;
-}
-
-.grey {
-  color: $grey-color;
-}
-
-.svg-icon {
-  width: 16px;
-  height: 16px;
-  display: inline-block;
-  fill: currentColor;
-  padding: 5px 3px 2px 5px;
-  vertical-align: text-bottom;
-}
-
-
 /**
  * Tables
  */
 table {
+  font-family: $paragraph-font-family;
   margin-bottom: $spacing-unit;
   width: 100%;
   text-align: $table-text-align;
@@ -256,12 +227,19 @@ table {
 }
 
 
+div.home {
+  font-size: 1.7em;
+  h1, h3 {
+    text-align: center;
+  }
+  @media (max-width: 767px) {
+    font-size: 1.5em;
+  }
+  @media (max-width: 450px) {
+    font-size: 1.3em;
+  }
+}
 
-
-
-
-
-
-
-
-
+header {
+  padding: 10px 30px;
+}

@@ -1,11 +1,13 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
+
 ---
 # Kyle Grover's
-- services
-- client work
-- projects
-- bio & contact
+
+### [services](/services/ "Services I Offer")
+
+### [client work](/client-work/ "Recent Client Work")
+
+### [projects](/projects/ "My Projects")
+
+### [bio & contact](/contact/ "Who is this guy?")

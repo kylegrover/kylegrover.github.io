@@ -11,4 +11,15 @@
   </div>
 </footer>
 <script src="/assets/js/jquery-3.3.1.js"></script>
+{% if page.title == 'Bio & Contact' %}
+<script>
+  $( 'form.floating-labels input' ).keyup(function() {
+    if( $(this).val() ) {
+        $(this).addClass('not-empty');
+    } else {
+        $(this).removeClass('not-empty');
+    }
+  });
+</script>
+{% endif %}
 {%- include barbajs.html -%}

@@ -241,7 +241,17 @@ div.home {
 }
 
 header {
-  padding: 10px 30px;
+  padding: 5px 30px;
+  text-align: center;
+  > a, 
+  > span {
+    display: inline-block;
+    padding: 5px;
+  }
+  @media (max-width: 767px) {
+    font-size: 0.8em;
+    padding: 5px!important;
+  }
 }
 
 .contact-form.floating-labels {
@@ -288,5 +298,15 @@ header {
      padding: 8px 16px;
      border: none;
      cursor: pointer;
+  }
+}
+
+footer .copyright {
+  text-align: center;
+  color: #444;
+  letter-spacing: 1px;
+  @media (max-width: 767px) {
+    font-size: 14px;
+    letter-spacing: 0;
   }
 }

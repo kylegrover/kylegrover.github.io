@@ -18,5 +18,6 @@ fields:
   hidden: false
   default: ''
 pages:
+- about-this-site.md
 - index.md
 - projects.md

@@ -1,9 +1,9 @@
 ---
 layout: page
----
-    
-# About This Site
+title: About This Site
+permalink: "/about-this-site/"
 
+---
 Most of my client work has been in WordPress, but my personal website has always been a safe platform to test out new web technologies. This latest incarnation is built using some really epic modern tools and techniques to create the fastest website experience I've ever built, hosted entirely for free. I'm excited to apply this approach to future client projects, particularly artists and hobbyists who want an easy interface without the ongoing costs of almost every platform out there.
 
 <br>
@@ -16,7 +16,7 @@ That's intentional.
 
 A lot of the web has gotten to be crowded and loud. Sometime's it feels like walking downtown at night with neon signs glaring. This website doesn't need to be that. You're here for info, not stock photos.
 
-For more on this line of reasoning, and a few chuckles, see <https://motherfuckingwebsite.com/> <http://bettermotherfuckingwebsite.com/> and <https://bestmotherfucking.website/>
+For more on this line of reasoning, and a few chuckles, see [https://motherfuckingwebsite.com/](https://motherfuckingwebsite.com/) [http://bettermotherfuckingwebsite.com/](http://bettermotherfuckingwebsite.com/) and [https://bestmotherfucking.website/](https://bestmotherfucking.website/)
 
 <br>
 

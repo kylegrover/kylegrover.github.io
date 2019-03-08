@@ -9,3 +9,5 @@ fields:
 - type: file
   name: myface
   label: My Face
+pages:
+- contact.md

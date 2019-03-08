@@ -1,9 +1,10 @@
 ---
 layout: page
 title: Bio & Contact
-permalink: /contact/
----
+permalink: "/contact/"
+myface: "/uploads/kyle-profile.jpg"
 
+---
 <img src="{{ page.myface | relative_url }}">
 
 I'm a freelance web developer, programmer, and digital artist living in beautiful Santa Cruz, California.

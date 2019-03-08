@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<div class="page">
+<div class="page page-{{ page.title | slugify }}">
  
   {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>

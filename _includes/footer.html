@@ -1,16 +1,26 @@
 <footer class="footer wrapper" id="site_footer">
   <div id="inner-footer" class="wrap">
-    <nav role="navigation">
-      <div class="social-links">
-        {%- include social.html -%}
-      </div>
-    </nav>
+    {%- include mainnav.html -%}
+    <br>
+    <div class="social-links">
+      {%- include social.html -%}
+    </div>
 
     <p class="source-org copyright">
       &copy; {{ site.time | date: "%Y" }} {{ site.title }} | {{ site.footer_copyright_text }} | <a href="/about-this-site/">About this site</a></a></p>
   </div>
 </footer>
 <script src="/assets/js/jquery-3.3.1.js"></script>
+<script>
+function footer_menu_toggle() {
+  document.querySelector('footer .main-nav').style.display = 'none';
+  if (window.innerHeight < window.document.body.offsetHeight) {
+    console.log('this page is long');
+    document.querySelector('footer .main-nav').style.display = 'block';
+  }
+}
+footer_menu_toggle();
+</script>
 {% if page.title == 'Bio & Contact' %}
 <script>
   $( 'form.floating-labels input' ).keyup(function() {

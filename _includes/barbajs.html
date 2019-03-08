@@ -24,11 +24,12 @@ var FadeTransition = Barba.BaseTransition.extend({
      * this.oldContainer is the HTMLElement of the old Container
      */
     $(this.oldContainer).css({
-      position: 'absolute',
-      top: $(this.oldContainer).offsetTop,
-      left: $(this.oldContainer).offsetLeft,
-    })
-    return $(this.oldContainer).animate({ opacity: 0 }, 100).promise();
+      position: 'fixed',
+      top: this.oldContainer.offsetTop + 'px',
+      left: this.oldContainer.offsetLeft + 'px',
+    });
+
+    return $(this.oldContainer).animate({ opacity: 0 }, 200).promise();
   },
 
   fadeIn: function() {
@@ -48,12 +49,12 @@ var FadeTransition = Barba.BaseTransition.extend({
       opacity : 0
     });
 
-    $el.animate({ opacity: 1 }, 200, function() {
-      /**
-       * Do not forget to call .done() as soon your transition is finished!
-       * .done() will automatically remove from the DOM the old Container
-       */
+    $("html, body").animate({ scrollTop: 0 }, 200);
+    
+    footer_menu_toggle();
 
+    $el.animate({ opacity: 1 }, 200, function() {
+      // finish the transition
       _this.done();
     });
   }

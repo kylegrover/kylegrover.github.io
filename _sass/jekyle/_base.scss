@@ -240,8 +240,7 @@ div.home {
   }
 }
 
-header {
-  padding: 5px 30px;
+.main-nav {
   text-align: center;
   > a, 
   > span {
@@ -250,13 +249,18 @@ header {
   }
   @media (max-width: 767px) {
     font-size: 0.8em;
-    padding: 5px!important;
   }
 }
 
 .contact-form.floating-labels {
   .form-field-row {
     display: flex;
+    .form-field {
+      margin-right: 10px;
+      &:last-child {
+        margin-right: 0;
+      }
+    }
   }
   .form-field {
      position: relative;
@@ -293,6 +297,8 @@ header {
   .submit-btn {
      display: inline-block;
      background-color: #000;
+     color: #fff;
+     font-family: $base-font-family;
      text-transform: uppercase;
      letter-spacing: 2px;
      padding: 8px 16px;
@@ -301,12 +307,28 @@ header {
   }
 }
 
-footer .copyright {
-  text-align: center;
-  color: #444;
-  letter-spacing: 1px;
+
+header {
+  padding: 5px 30px;
   @media (max-width: 767px) {
-    font-size: 14px;
-    letter-spacing: 0;
+    padding: 5px!important;
+  }
+}
+
+footer {
+  @media (max-width: 767px) {
+    padding: 5px!important;
+  }
+  .main-nav {
+    display: none;
+  }
+  .copyright {
+    text-align: center;
+    color: #444;
+    letter-spacing: 1px;
+    @media (max-width: 767px) {
+      font-size: 14px;
+      letter-spacing: 0;
+    }
   }
 }

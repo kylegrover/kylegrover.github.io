@@ -9,7 +9,8 @@ url: https://kylegrover.com # the base hostname & protocol for your site, e.g. h
 port: 1234
 github_username:  kylegrover
 footer_copyright_text: Developed, designed, and hosted by Kyle Grover.
-collections_dir: post_types
+collections:
+  - client_work
 
 # Build settings
 markdown: kramdown

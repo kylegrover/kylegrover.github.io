@@ -3,10 +3,10 @@ layout: page
 ---
 # Projects
 
-### Rhythm.Vision - Abstract A/V Art (creator)
+### [Rhythm.Vision](https://rhythm.vision/) - Abstract A/V Art (creator)
 
-### 365 Producer - Santa Cruz's premier recording studio and online learning community (developer)
+### [365 Producer](https://365producer.com/) - Santa Cruz's premier recording studio and online learning community (developer)
 
-### Sub-Freq - Video artist collective focused on promoting electronic musicians (video artist / developer)
+### [Sub-Freq](https://sub-freq.com/) - Video artist collective focused on promoting electronic musicians (video artist / developer)
 
-### Spectacular.Cloud - Cheap & simple web hosting platform for artists and musicians
+### [Spectacular.Cloud](https://spectacular.cloud/) - Cheap & simple web hosting platform for artists and musicians

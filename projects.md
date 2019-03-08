@@ -4,8 +4,6 @@ title: Projects
 permalink: "/projects/"
 
 ---
-# Projects
-
 ### [Rhythm.Vision](https://rhythm.vision/) - Abstract A/V Art (creator)
 
 ### [365 Producer](https://365producer.com/) - Santa Cruz's premier recording studio and online learning community (developer)

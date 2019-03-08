@@ -12,14 +12,16 @@
 </footer>
 <script src="/assets/js/jquery-3.3.1.js"></script>
 <script>
-function footer_menu_toggle() {
+function page_load_scripts() {
   document.querySelector('footer .main-nav').style.display = 'none';
   if (window.innerHeight < window.document.body.offsetHeight) {
     console.log('this page is long');
     document.querySelector('footer .main-nav').style.display = 'block';
   }
+
+  if (document.querySelector('h1#kyle-grover')) console.log('homepage');
 }
-footer_menu_toggle();
+page_load_scripts();
 </script>
 {% if page.title == 'Bio & Contact' %}
 <script>

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Services
-permalink: "/services/"
+permalink: /services
 
 ---
 ## [Static Sites](/services/static-sites/)

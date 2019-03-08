@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bio & Contact
-permalink: "/contact/"
+permalink: /contact
 myface: "/uploads/kyle-profile.jpg"
 
 ---

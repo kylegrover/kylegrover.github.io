@@ -1,12 +1,12 @@
 ---
 layout: home
 title: Home
-permalink: "/"
+permalink: /
 
 ---
 # Kyle Grover's
 
-### [services](/services/ "Services I Offer")
+### [web services](/services/ "Services I Offer")
 
 ### [client work](/client-work/ "Recent Client Work")
 

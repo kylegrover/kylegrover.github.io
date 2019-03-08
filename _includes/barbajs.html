@@ -51,7 +51,7 @@ var FadeTransition = Barba.BaseTransition.extend({
 
     $("html, body").animate({ scrollTop: 0 }, 200);
     
-    footer_menu_toggle();
+    page_load_scripts();
 
     $el.animate({ opacity: 1 }, 200, function() {
       // finish the transition

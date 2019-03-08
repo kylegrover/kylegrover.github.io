@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About This Site
-permalink: "/about-this-site/"
+permalink: /about-this-site
 
 ---
 Most of my client work has been in WordPress, but my personal website has always been a safe platform to test out new web technologies. This latest incarnation is built using some really epic modern tools and techniques to create the fastest website experience I've ever built, hosted entirely for free. I'm excited to apply this approach to future client projects, particularly artists and hobbyists who want an easy interface without the ongoing costs of almost every platform out there.

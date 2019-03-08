@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-permalink: "/projects/"
+permalink: /projects
 
 ---
 ### [Rhythm.Vision](https://rhythm.vision/) - Abstract A/V Art (creator, artist)

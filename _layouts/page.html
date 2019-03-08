@@ -4,7 +4,12 @@ layout: default
 <div class="page page-{{ page.title | slugify }}">
  
   {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
+    <h1 class="page-heading">
+      {% if page.dir != '/' %}
+        <a href="{{page.dir}}">{{ page.dir | remove: "/" | capitalize }}</a> >
+      {% endif %}
+      {{ page.title }}
+    </h1>
   {%- endif -%}
  
   {{ content }}

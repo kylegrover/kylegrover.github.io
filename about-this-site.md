@@ -26,7 +26,7 @@ The principles I'm using are nothing new and I certainly didn't invent them, I j
 
 ### Jekyll, for building static sites
 
-To host websites for free, they're pretty much going to need to be static. Jekyll me build kickass static websites quickly and easily. There are a lot of other tools out there for this, but Jekyll has the biggest community, and after trying a few others I found it to be my favorite.
+To host websites for free, you have to cut server-side processing out of the equation. That means no Wordpress, no PHP or node.js, and no database. Some compromises have to be made, and static sites aren't right for every project, but the benefits are incredible. Jekyll enables me to build kickass static websites quickly and easily, and host them for free or dirt cheap. There are a lot of other tools out there for this, but Jekyll has the biggest community, having been used on huge projects like Barrack Obama's presidential campaign websites, and after trying a few others I found it to be my favorite.
 
 ### Forestry.io, easy editing for muggles
 

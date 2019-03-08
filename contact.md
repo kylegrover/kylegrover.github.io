@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Bio & Contact
-permalink: /contact
-myface: "/uploads/kyle-profile.jpg"
+permalink: "/contact"
+myface: "/v1552026593/kyle-profile.jpg"
 
 ---
 <img class="myface" src="{{ page.myface | relative_url }}">

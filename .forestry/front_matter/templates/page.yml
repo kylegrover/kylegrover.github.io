@@ -18,8 +18,8 @@ fields:
   hidden: false
   default: ''
 pages:
+- about-this-site.md
 - services.md
 - client-work.md
-- about-this-site.md
 - index.md
 - projects.md

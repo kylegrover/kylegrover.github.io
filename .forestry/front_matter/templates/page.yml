@@ -18,6 +18,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- client-work.md
 - about-this-site.md
 - index.md
 - projects.md

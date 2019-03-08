@@ -1,5 +1,7 @@
 ---
 layout: home
+title: Home
+permalink: "/"
 
 ---
 # Kyle Grover's

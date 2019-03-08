@@ -18,4 +18,5 @@ fields:
   hidden: false
   default: ''
 pages:
+- index.md
 - projects.md

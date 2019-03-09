@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Bio & Contact
-permalink: /contact
-myface: "kyle-profile.jpg"
+permalink: "/contact"
+myface: "/v1552026593/kyle-profile.jpg"
 
 ---
-<img class="myface" src="{{ site.cloudinary_url }}{{ page.myface }}">
+<img class="myface" src="{{ page.myface | relative_url }}">
 
 I'm a freelance web developer, programmer, and digital artist living in beautiful Santa Cruz, California.
 When I'm not making websites and drinking lots of coffee, I'm probably working on art, getting lost in indie video games, or checking out some local music.

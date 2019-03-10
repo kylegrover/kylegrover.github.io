@@ -23,6 +23,27 @@ function page_load_scripts() {
 }
 page_load_scripts();
 </script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js"></script>
+<script>
+// Wrap every letter in a span
+$('header .main-nav a').each(function(){
+  $(this).html($(this).text().replace(/([^\x00-\x80]|\w)/g, "<span style='position: relative; display: inline-block;' class='animated-letters'>$&</span>"));
+});
+
+$('header .main-nav a').click(function(){
+  anime.timeline({loop: false})
+  .add({
+      targets: this.children,
+      translateY: ['-1px', '1px', 0],
+      translateZ: 0,
+      duration: 600,
+      easing: 'linear',
+      delay: function(el, i) {
+        return 30 * i;
+      }
+    })
+});
+</script>
 {% if page.title == 'Bio & Contact' %}
 <script>
   $( 'form.floating-labels input' ).keyup(function() {

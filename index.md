@@ -13,3 +13,9 @@ permalink: /
 ### [projects](/projects/ "My Projects")
 
 ### [bio & contact](/contact/ "Who is this guy?")
+
+<style>
+    header .main-nav {
+        opacity: 0;
+    }
+</style>

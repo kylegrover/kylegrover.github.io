@@ -6,13 +6,13 @@ permalink: /
 ---
 # Kyle Grover's
 
-### [web services](/services/ "Services I Offer")
+### [web services](/services "Services I Offer")
 
-### [client work](/client-work/ "Recent Client Work")
+### [client work](/client-work "Recent Client Work")
 
-### [projects](/projects/ "My Projects")
+### [projects](/projects "My Projects")
 
-### [bio & contact](/contact/ "Who is this guy?")
+### [bio & contact](/contact "Who is this guy?")
 
 <style>
     header .main-nav {

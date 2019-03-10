@@ -1,6 +1,6 @@
 ---
 layout: page
-title: New Websites
+title: Website Updates, Redesigns & Hosting/CMS Migrations
 permalink: /services/new-websites
 ---
 ## Starting at $200
@@ -13,7 +13,7 @@ Ready to go? Use my [website cost estimator](/services/new-website/cost-estimato
 
 ### Already have a website?
 
-Check out my [migrations, redesigns & updates](/services/migrations-redesigns-updates/) page to decide which option is right for you and estimate the cost, or just [send me a message](/contact).
+Check out my [migrations, redesigns & updates](/services/migrations-redesigns-updates) page to decide which option is right for you and estimate the cost, or just [send me a message](/contact).
 
 <br>
 

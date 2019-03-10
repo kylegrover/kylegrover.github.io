@@ -13,7 +13,7 @@ Ready to go? Use my [website cost estimator](/services/new-website/cost-estimato
 
 ### Already have a website?
 
-Check out my [updates, redesigns & migrations](/services/updates-redesigns-migrations/) page to decide which option is right for you and estimate the cost, or just [send me a message](/contact).
+Check out my [updates, redesigns & migrations](/services/updates-redesigns-migrations) page to decide which option is right for you and estimate the cost, or just [send me a message](/contact).
 
 <hr>
 

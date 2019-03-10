@@ -10,7 +10,7 @@ myface: "kyle-profile.jpg"
 I'm a freelance web developer, programmer, and digital artist living in beautiful Santa Cruz, California.
 When I'm not making websites and drinking lots of coffee, I'm probably working on art, getting lost in indie video games, or checking out some local music.
 
-I'm available for freelance work, check out my [services](/services/).
+I'm available for freelance work, check out my [services](/services).
 
 ## Let's Chat
 

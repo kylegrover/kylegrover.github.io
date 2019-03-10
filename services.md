@@ -4,14 +4,19 @@ title: Services
 permalink: /services
 
 ---
-## [Static Sites](/services/static-sites)
 
-### for artists, bloggers, and small businesses
+## [New Websites](/services/new-websites)
 
-## [Wordpress Sites](/services/wordpress-sites)
+#### Starting from scratch? I can help guide you through the process and get you started strong.
 
-### for ecommerce, membership sites, and business tools
+## [Wordpress Website Management](/services/wordpress-website-management)
+
+#### Has your Wordpress site gotten out of hand? I provide one-off and ongoing services to get it under control and make your site work for you.
+
+## [Updates, Redesigns & Migrations](services/updates-redesigns-migrations)
+
+#### Whether you need a form added to your homepage, a new theme, or a whole new server or CMS, I can take you through the process and keep your site and search placement safe.
 
 ## [Auditing & Consultation](/services/site-audits-and-web-consultation)
 
-### optimize your site, learn and implement new services
+#### identify your websites weaknesses, optimize your site speed and search ranking, learn and implement new services

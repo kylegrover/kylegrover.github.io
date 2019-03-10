@@ -5,7 +5,7 @@ permalink: /services
 
 ---
 
-## [New Websites](/services/new-websites)
+## [New Websites - Designed, Developed & Hosted](/services/new-websites)
 
 #### Starting from scratch? I can help guide you through the process and get you started strong.
 

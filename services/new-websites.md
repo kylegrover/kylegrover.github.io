@@ -1,6 +1,6 @@
 ---
 layout: page
-title: New Websites
+title: New Websites - Designed, Developed & Hosted
 permalink: /services/new-websites
 ---
 ## Starting at $200

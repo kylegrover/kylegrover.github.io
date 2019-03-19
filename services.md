@@ -1,13 +1,12 @@
 ---
 layout: page
 title: Services
-permalink: /services
+permalink: "/services"
 
 ---
-
 ## [New Websites - Designed, Developed & Hosted](/services/new-websites)
 
-#### Starting from scratch? I can help guide you through the process and get you started strong.
+#### Starting from scratch? I can help guide you through the process and get you started strong with your new site!
 
 ## [Wordpress Website Management](/services/wordpress-website-management)
 

@@ -16,6 +16,6 @@ permalink: "/services"
 
 #### Whether you need a form added to your homepage, a new theme, or a whole new server or CMS, I can take you through the process and keep your site and search placement safe.
 
-## [Auditing & Consultation](/services/site-audits-and-web-consultation)
+## [Auditing & Consultation](/services/site-audits-and-web-consultations)
 
 #### identify your websites weaknesses, optimize your site speed and search ranking, learn and implement new services

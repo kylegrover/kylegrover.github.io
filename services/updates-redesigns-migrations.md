@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Website Updates, Redesigns & Hosting/CMS Migrations
-permalink: /services/new-websites
+permalink: "/services/updates-redesigns-migrations"
+
 ---
 ## Starting at $200
 
@@ -17,4 +18,4 @@ Check out my [migrations, redesigns & updates](/services/migrations-redesigns-up
 
 <br>
 
-## 
+##

@@ -45,4 +45,4 @@ This combination makes for a buttery smooth authoring workflow, happy editors, a
 
 Okay, I'll admit, even with the smoothest admin interface, the most efficient automations, and clever use of 3rd party services, running a website will always take work. You're busy, your business is successful, and you don't have time to learn something new when you're already succesful in your own field - you just want your dang website to work! Say no more, that's what nerds like me are for! 
 
-Depending on your needs I'm available for once off audits and consultations, monthly checkups, or more deeply involved ongoing web management.  [Contact me to start the discussion](/bio-contact)
+Depending on your needs I'm available for once off audits and consultations, monthly checkups, or more deeply involved ongoing web management.  [Contact me to start the discussion](/contact)

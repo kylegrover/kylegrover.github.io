@@ -1,6 +1,6 @@
 ---
 label: Client Work
-hide_body: true
+hide_body: false
 fields:
 - type: color
   name: main_color

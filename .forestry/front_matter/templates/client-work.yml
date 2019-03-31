@@ -3,8 +3,8 @@ label: Client Work
 hide_body: false
 fields:
 - type: text
-  name: url
-  label: URL
+  name: website
+  label: Website
   description: Website home url
   config:
     required: false

@@ -2,10 +2,6 @@
 label: Client Work
 hide_body: false
 fields:
-- type: include
-  template: page
-  label: Page Info
-  name: page_info
 - type: text
   name: url
   label: URL

@@ -4,7 +4,7 @@ title: East Bay Sports
 categories:
 - migration/recovery
 main_color: "#1E73BE"
-desktop_full_homepage: 
+desktop_full_homepage: https://res.cloudinary.com/kylegrover/image/upload/./v1554059691/screencapture-eastbaysports-net-2018-04-01-17_47_52.png
 mobile_full_page: ''
 url: http://www.eastbaysports.net/
 

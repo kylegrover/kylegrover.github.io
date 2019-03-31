@@ -1,5 +1,5 @@
 ---
-layout: client-work
+layout: client-work-index
 title: Client Work
 permalink: /client-work
 

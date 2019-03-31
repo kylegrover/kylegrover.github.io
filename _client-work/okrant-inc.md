@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: client-work-single
 title: Okrant Inc
 categories:
 - web design
@@ -9,7 +9,7 @@ categories:
 main_color: "#1E73BE"
 desktop_full_homepage: 
 mobile_full_page: ''
-url: https://www.okrant.org
+website: https://www.okrant.org
 
 ---
 WordPress and Woocommerce based subscription membership website for cryptocurrency training and advice videos and much more to come, this is an ongoing project with a past client that I’m more deeply involved with.

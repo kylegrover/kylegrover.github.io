@@ -2,9 +2,8 @@
 layout: post
 title: Will Kreiser
 categories:
-- web design
-- web development
-- seo & marketing
+- troubleshooting
+- artists
 main_color: "#1E73BE"
 desktop_full_homepage: https://res.cloudinary.com/kylegrover/image/upload/./v1554058139/screencapture-willkreiser-2018-04-01-17_57_56.png
 mobile_full_page: ''

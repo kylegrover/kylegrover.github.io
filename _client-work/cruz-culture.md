@@ -7,7 +7,7 @@ categories:
 - seo & marketing
 - ecommerce
 main_color: "#1E73BE"
-desktop_full_homepage: 
+desktop_full_homepage: https://res.cloudinary.com/kylegrover/image/upload/./v1554059630/screencapture-cruzculture-2018-04-01-08_22_43.png
 mobile_full_page: ''
 url: https://cruzculture.com
 

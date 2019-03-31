@@ -9,6 +9,8 @@ sections:
   label: Client Work
   create: all
   match: "**/*"
+  templates:
+  - client-work
 - type: jekyll-posts
   label: Posts
   create: all

@@ -7,20 +7,4 @@ layout: default
   {%- endif -%}
 
   {{ content }}
-  {{ site.client_work }}
-  {%- if site.client_work.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
-    <ul class="post-list">
-      {%- for client_work in site.client_work -%}
-      <li>
-        <h3>
-          <a class="post-link" href="{{ client_work.url | relative_url }}">
-            {{ client_work.title | escape }}
-          </a>
-        </h3>
-        <p>{{ client_work.content }}</p>
-      </li>
-      {%- endfor -%}
-    </ul>
-  {%- endif -%}
 </div>

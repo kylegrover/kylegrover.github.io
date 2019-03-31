@@ -8,14 +8,14 @@ fields:
   description: Website home url
   config:
     required: false
-  default: https://willkreiser.com
+  default: ''
 - type: color
   name: main_color
   config:
     color_format: Hex
   label: Main Color
   description: The website's main color
-  default: "#1E73BE"
+  default: 
 - type: file
   name: desktop_full_homepage
   label: Desktop Full Homepage

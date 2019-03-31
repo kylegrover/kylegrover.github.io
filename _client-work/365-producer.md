@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Okrant Wood
+title: 365 Producer
 categories:
 - web design
 - web development
 - seo and marketing
 - membership sites
 - ecommerce
-main_color: "#1E73BE"
+main_color: "#d8592a"
 desktop_full_homepage: 
 mobile_full_page: ''
 url: https://365producer.com

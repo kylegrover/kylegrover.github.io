@@ -8,7 +8,7 @@ categories:
 - membership sites
 - ecommerce
 main_color: "#d8592a"
-desktop_full_homepage: 
+desktop_full_homepage: https://res.cloudinary.com/kylegrover/image/upload/./v1554059611/screencapture-365producer-2019-03-31-12_13_14.png
 mobile_full_page: ''
 url: https://365producer.com
 

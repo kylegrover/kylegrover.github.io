@@ -22,3 +22,5 @@ fields:
   description: Website home url
   config:
     required: false
+pages:
+- _client-work/01-01-2016-cruz-culture.md

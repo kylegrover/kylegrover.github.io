@@ -1,4 +1,24 @@
 ---
 label: Client Work
 hide_body: true
-fields: []
+fields:
+- type: color
+  name: main_color
+  config:
+    color_format: Hex
+  label: Main Color
+  description: The website's main color
+- type: file
+  name: desktop_full_homepage
+  label: Desktop Full Homepage
+  description: Use a chrome extension, snap screens at 1920px wide
+- type: file
+  name: mobile_full_page
+  label: Mobile Full Page
+  description: Any page, snap at 375px screen width
+- type: text
+  name: url
+  label: URL
+  description: Website home url
+  config:
+    required: false

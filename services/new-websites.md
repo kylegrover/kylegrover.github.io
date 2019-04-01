@@ -6,8 +6,6 @@ permalink: "/services/new-websites"
 ---
 ## Starting at $200
 
-### A Firm Foundation for your Web Presence
-
 #### Portfolios, Blogs, Web Stores - Anything you can imagine
 
 {% comment %}

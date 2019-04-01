@@ -4,9 +4,13 @@ title: New Websites - Designed, Developed & Hosted
 permalink: "/services/new-websites"
 
 ---
-## Starting at $200
+### Starting at $400
 
-#### Portfolios, Blogs, Web Stores - Anything you can imagine
+## Portfolios, Blogs, Web Stores - Anything you can imagine
+
+Websites are complicated. You're not a web developer, you're a dreamer, an artist or business owner. You probably have a vision, not a wireframe or a written list of web marketing goals. You bring me the vision, I bring you the website. There aren't many places you can get direct one-to-one interaction with a web developer that actually gives a shit about your project. I will talk directly with you to develop a clear understanding of your goals and work with you to help create a functional and helpful home base on the internet. 
+
+[Contact me](/contact) to start the conversation.
 
 {% comment %}
 *Ready to go?* Use my [website cost estimator](/services/new-website/cost-estimator) to calculate your costs or [contact me](/contact) to start the conversation.

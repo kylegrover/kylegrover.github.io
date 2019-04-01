@@ -23,10 +23,6 @@ Managing a website can feel like navigating a mine field - I've seen too many bu
 
 Enter your URL and email address below and I'll run a preliminary site audit to check for common errors and propose any recommended improvements:
 
-\[ URL \]  
-\[ email address \]  
-\[ request my free site audit \]
-
 <form action="https://formspree.io/kyle@kylegrover.com" method="POST" class="contact-form floating-labels">
    <div class="form-field-row">
       <div class="form-field">

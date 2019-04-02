@@ -17,3 +17,25 @@ If your website is doing well, it'll eventually outgrow it's hosting plan and wi
 ## Changing or Adding CMS (Content Management Systems)
 
 If managing your website has become a complicated chore, or if you can't control your website's content at all, it might be time for a new CMS, such as Wordpress, Contenful, or Shopify. I can help you choose, set up, and learn a new CMS without disrupting your site design, search ranking, or anything else on your server. A better, happier editing experience is just a conversation away.
+
+<form action="https://formspree.io/kyle@kylegrover.com" method="POST" class="contact-form floating-labels">
+   <div class="form-field-row">
+      <div class="form-field">
+         <input id="name" class="input-text" type="text" required="">
+         <label for="name">Name</label>
+      </div>
+      <div class="form-field">
+         <input id="_replyto" class="input-text" type="email" required="">
+         <label for="email">E-mail</label>
+      </div>
+   </div>
+   <div class="form-field">
+      <input id="message" class="input-text" type="text" required="">
+      <label for="message">Message</label>
+   </div>
+   <div class="form-field align-center">
+      <input class="submit-btn" type="submit" value="Submit">
+   </div>
+    <input style="display: none" name="_gotcha">
+    <input style="display: none" name="_next" value="/thanks">
+</form>

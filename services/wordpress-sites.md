@@ -25,45 +25,24 @@ permalink: "/services/wordpress-sites"
 
 And I could keep going. There's a reason Wordpress has been the most popular CMS for years. If you're interested in building a new Wordpress site, talk to me! I've built over a hundred of 'em, and I can use that experience to guide you in the right direction. I can handle any and every aspect of getting your website going, from branding, marketing, and design to custom development, server management, and hosting. Let me know about your project below to star the conversation:
 
-    
 <form action="https://formspree.io/kyle@kylegrover.com" method="POST" class="contact-form floating-labels">
-
    <div class="form-field-row">
-
       <div class="form-field">
-
          <input id="name" class="input-text" type="text" required="">
-
          <label for="name">Name</label>
-
       </div>
-
       <div class="form-field">
-
          <input id="_replyto" class="input-text" type="email" required="">
-
          <label for="email">E-mail</label>
-
       </div>
-
    </div>
-
    <div class="form-field">
-
       <input id="message" class="input-text" type="text" required="">
-
       <label for="message">Message</label>
-
    </div>
-
    <div class="form-field align-center">
-
       <input class="submit-btn" type="submit" value="Submit">
-
    </div>
-
     <input style="display: none" name="_gotcha">
-
     <input style="display: none" name="_next" value="/thanks">
-
 </form>

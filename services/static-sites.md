@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Static Sites
-permalink: /services/static-sites
----
+permalink: "/services/static-sites"
 
+---
 <hr>
 
-## Static Sites Starting at $200
+## Static Sites Starting at $400
 
 ### Free Hosting • Insanely Fast • Easy to Edit
 
@@ -18,20 +18,20 @@ permalink: /services/static-sites
 
 #### Probably! Unless your website needs to be _really_ complicated
 
-- Zero maintenance
-- Unhackable
-- Lightning fast
+* Zero maintenance
+* Unhackable
+* Lightning fast
 
 ...there are lots of reasons to love static websites.
 
 ### What are the limitations of Static Sites?
 
-You can accomplish just about *anything* with a static site, but there are quite a few things that require a 3rd party service that may or may not cost money, depending on your needs and usage. Some services you might have to pay for if you have a static site include:
-- Web stores
-- Contact forms, if you have many forms or get a lot of contact submissions
-- Comments, if you don't want ads
-- Memberships / Paywalls
-- Lots of editors / multiple levels of editing permissions
+You can accomplish just about _anything_ with a static site, but there are quite a few things that require a 3rd party service that may or may not cost money, depending on your needs and usage. Some services you might have to pay for if you have a static site include:
+
+* Web stores
+* Contact forms, if you have many forms or get a lot of contact submissions
+* Comments, if you don't want ads
+* Memberships / Paywalls
+* Lots of editors / multiple levels of editing permissions
 
 If your website relies heavily on one or more of these features, you might be better served with a dynamic website like Wordpress provides - check out my [comparison of static sites vs Wordpress ](/advice-for-website-owners/static-sites-vs-wordpress-sites) or my [Wordpress website services](/services/wordpress-sites).
-

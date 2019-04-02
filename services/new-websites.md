@@ -35,10 +35,4 @@ It can be hard to find a good web developer in Santa Cruz - everyone's either ol
 
 
 
-## [Static Sites](/services/static-sites)
-
-### for artists, bloggers, and small businesses
-
-## [Wordpress Sites](/services/wordpress-sites)
-
-### for ecommerce, membership sites, and business tools
+You don't need to know which tools I use if you don't want to, you'll get a control panel that just works either way, but if you're curious or have specific website needs you can read more about the two main types of sites I build: [static sites](/services/static-sites), great for artists, bloggers, and small businesses, and [wordpress sites](/services/wordpress-sites), for ecommerce, complex projects, and web DIY-ers.

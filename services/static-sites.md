@@ -16,15 +16,13 @@ permalink: "/services/static-sites"
 
 ## "Is a Static Site Right for Me?"
 
-#### Probably! Unless your website needs to be _really_ complicated
+Probably! Unless your website needs to be _really_ complicated. There are a lot of reasons to love static websites:
 
-* Zero maintenance
-* Unhackable
+* Zero maintenance required
+* Unhackable, literally
 * Lightning fast
 
-...there are lots of reasons to love static websites.
-
-### What are the limitations of Static Sites?
+### But what are the limitations of Static Sites?
 
 You can accomplish just about _anything_ with a static site, but there are quite a few things that require a 3rd party service that may or may not cost money, depending on your needs and usage. Some services you might have to pay for if you have a static site include:
 

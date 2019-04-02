@@ -1,7 +1,7 @@
 ---
 layout: page
 title: New Websites - Designed, Developed & Hosted
-permalink: "/services/new-websites"
+permalink: "/services/new-website"
 
 ---
 ### Starting at $400

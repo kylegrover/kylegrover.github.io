@@ -7,7 +7,7 @@ categories:
 - ecommerce
 - hosting
 main_color: "#4E3326"
-desktop_full_homepage: 
+desktop_full_homepage: https://res.cloudinary.com/kylegrover/image/upload/./v1554235845/screencapture-okrantwood-2018-03-31-23_11_45.png
 mobile_full_page: ''
 website: https://www.okrantwood.com
 

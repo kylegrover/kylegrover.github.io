@@ -7,7 +7,7 @@ categories:
 - membership sites
 - hosting
 main_color: "#1E73BE"
-desktop_full_homepage: 
+desktop_full_homepage: https://res.cloudinary.com/kylegrover/image/upload/./v1554235829/screencapture-okrant-org-2018-04-01-00_12_08.png
 mobile_full_page: ''
 website: https://www.okrant.org
 

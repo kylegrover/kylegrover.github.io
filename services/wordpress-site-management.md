@@ -12,7 +12,7 @@ Wordpress can be a pain to manage, especially as the site ages, the database gro
 
 ## Wordpress Workflow Automation
 
-![](https://res.cloudinary.com/kylegrover/image/upload/./v1554767787/workflow-automation.png){ .align-left }
+![](https://res.cloudinary.com/kylegrover/image/upload/./v1554767787/workflow-automation.png){: .align-left }
 
 Do you find yourself repeating the same steps again and again? You shouldn't have to repeat yourself, this is the future and we have robots, servers, and code to take the repetitive strain out of your website management.
 
@@ -22,7 +22,7 @@ Heck, let's set up a daily script that clicks that button twice a day and then s
 
 ## 3rd Party Services and Website Integrations
 
-![](https://res.cloudinary.com/kylegrover/image/upload/./v1554767787/3rd-party-integrations.png){ .align-left }
+![](https://res.cloudinary.com/kylegrover/image/upload/./v1554767787/3rd-party-integrations.png){: .align-left }
 
 Throughout my web career I've found time and time again that website owners aren't aware of all the resources available to help them succeed, and how much of it is cheap or even free! I can help you identify the best tools and services to
 
@@ -33,7 +33,7 @@ Throughout my web career I've found time and time again that website owners aren
 
 ## Wordpress Custom & Customized User Interfaces
 
-![](https://res.cloudinary.com/kylegrover/image/upload/./v1554767786/custom-post-types.png){ .align-left }
+![](https://res.cloudinary.com/kylegrover/image/upload/./v1554767786/custom-post-types.png){: .align-left }
 
 I've seen three common problems when it comes to Wordpress admin interfaces, you either have:
 

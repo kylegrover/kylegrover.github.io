@@ -12,7 +12,7 @@ Wordpress can be a pain to manage, especially as the site ages, the database gro
 
 ## Wordpress Workflow Automation
 
-![](https://res.cloudinary.com/kylegrover/image/upload/./v1554767766/custom-fields.png)
+![](https://res.cloudinary.com/kylegrover/image/upload/./v1554767787/workflow-automation.png)
 
 Do you find yourself repeating the same steps again and again? You shouldn't have to repeat yourself, this is the future and we have robots, servers, and code to take the repetitive strain out of your website management.
 
@@ -21,6 +21,8 @@ Do you find yourself repeating the same steps again and again? You shouldn't hav
 Heck, let's set up a daily script that clicks that button twice a day and then sends you an email to let you know how your site's doing. The sky is the limit.
 
 ## 3rd Party Services and Website Integrations
+
+![](https://res.cloudinary.com/kylegrover/image/upload/./v1554767787/3rd-party-integrations.png)
 
 Throughout my web career I've found time and time again that website owners aren't aware of all the resources available to help them succeed, and how much of it is cheap or even free! I can help you identify the best tools and services to
 
@@ -31,6 +33,8 @@ Throughout my web career I've found time and time again that website owners aren
 
 ## Wordpress Custom & Customized User Interfaces
 
+![](https://res.cloudinary.com/kylegrover/image/upload/./v1554767786/custom-post-types.png)
+
 I've seen three common problems when it comes to Wordpress admin interfaces, you either have:
 
 * little to no settings, with just one text box to edit per page, and many things you can't edit
@@ -40,6 +44,8 @@ I've seen three common problems when it comes to Wordpress admin interfaces, you
 All of these problems lead to the same complaint: you have to email a developer every time you want to make a change. That's lame, and even worse it leads to a stagnant web presence. What you need is a healthy amount of control, with safe fallbacks and default settings to prevent you from accidentally breaking anything.
 
 #### Advanced Custom Fields Pro & Custom Post Types
+
+![](https://res.cloudinary.com/kylegrover/image/upload/./v1554767766/custom-fields.png)
 
 To make your user interface powerful and reliable I leverage two of the largest and most well respected plugins, ACF Pro (normally $100 but all of my clients benefit from my enterprise license) and Custom Post Types UI (open source). These are well supported projects, built on core Wordpress features that you can depend on, not some custom hodge podge of code that only I understand.
 

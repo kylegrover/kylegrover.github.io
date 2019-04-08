@@ -8,11 +8,13 @@ Wordpress can be a pain to manage, especially as the site ages, the database gro
 
 * Automate your workflows and integrate 3rd party services to simplify your job
 * Build or improve your user interfaces
-* Hire a web manager to do it all for you! 
+* Hire a web manager to do it all for you!
 
 ## Wordpress Workflow Automation
 
-Do you find yourself repeating the same steps again and again? You shouldn't have to repeat yourself, this is the future and we have robots, servers, and code to take the repetitive strain out of your website management. 
+![](https://res.cloudinary.com/kylegrover/image/upload/./v1554767766/custom-fields.png)
+
+Do you find yourself repeating the same steps again and again? You shouldn't have to repeat yourself, this is the future and we have robots, servers, and code to take the repetitive strain out of your website management.
 
 > Why click 10 buttons when I can build you a single button that does all of that for you.
 
@@ -20,18 +22,20 @@ Heck, let's set up a daily script that clicks that button twice a day and then s
 
 ## 3rd Party Services and Website Integrations
 
-Throughout my web career I've found time and time again that website owners aren't aware of all the resources available to help them succeed, and how much of it is cheap or even free! I can help you identify the best tools and services to 
-- speed up and beautify your website
-- track and analyze your web presence
-- engage and manage your customers or clients
-- and so much more
+Throughout my web career I've found time and time again that website owners aren't aware of all the resources available to help them succeed, and how much of it is cheap or even free! I can help you identify the best tools and services to
+
+* speed up and beautify your website
+* track and analyze your web presence
+* engage and manage your customers or clients
+* and so much more
 
 ## Wordpress Custom & Customized User Interfaces
 
-I've seen three common problems when it comes to Wordpress admin interfaces, you either have: 
-- little to no settings, with just one text box to edit per page, and many things you can't edit
-- a huge simple text box with tons of confusing HTML in it
-- or a massively complicated interface that requires a trained pilot
+I've seen three common problems when it comes to Wordpress admin interfaces, you either have:
+
+* little to no settings, with just one text box to edit per page, and many things you can't edit
+* a huge simple text box with tons of confusing HTML in it
+* or a massively complicated interface that requires a trained pilot
 
 All of these problems lead to the same complaint: you have to email a developer every time you want to make a change. That's lame, and even worse it leads to a stagnant web presence. What you need is a healthy amount of control, with safe fallbacks and default settings to prevent you from accidentally breaking anything.
 
@@ -43,6 +47,6 @@ This combination makes for a buttery smooth authoring workflow, happy editors, a
 
 ## Santa Cruz Wordpress Webmaster & Web Developer
 
-Okay, I'll admit, even with the smoothest admin interface, the most efficient automations, and clever use of 3rd party services, running a website will always take work. You're busy, your business is successful, and you don't have time to learn something new when you're already succesful in your own field - you just want your dang website to work! Say no more, that's what nerds like me are for! 
+Okay, I'll admit, even with the smoothest admin interface, the most efficient automations, and clever use of 3rd party services, running a website will always take work. You're busy, your business is successful, and you don't have time to learn something new when you're already succesful in your own field - you just want your dang website to work! Say no more, that's what nerds like me are for!
 
 Depending on your needs I'm available for once off audits and consultations, monthly checkups, or more deeply involved ongoing web management.  [Contact me to start the discussion](/contact)

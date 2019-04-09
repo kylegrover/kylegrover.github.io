@@ -300,3 +300,29 @@
   width: -webkit-calc(50% - (#{$spacing-unit} / 2));
   width:         calc(50% - (#{$spacing-unit} / 2));
 }
+
+.align-center { 
+    max-width: 500px;
+    width: 90%;
+    margin: 0 auto;
+}
+.align-left {
+    max-width: 500px;
+    width: 90%;
+    margin: 0 auto;
+    @media (min-width: 700px) {
+      width: 40%;
+      margin-right: 15px;
+      float: left;
+    }
+}
+.align-right {
+    max-width: 500px;
+    width: 90%;
+    margin: 0 auto;
+    @media (min-width: 700px) {
+      width: 40%;
+      margin-left: 15px;
+      float: right;
+    }
+}

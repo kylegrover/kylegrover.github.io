@@ -12,7 +12,7 @@ Wordpress can be a pain to manage, especially as the site ages, the database gro
 
 ## Wordpress Workflow Automation
 
-![](https://res.cloudinary.com/kylegrover/image/upload/./v1554767787/workflow-automation.png){: .align-left }
+![](https://res.cloudinary.com/kylegrover/image/upload/./v1554767787/workflow-automation.png){: .align-right }
 
 Do you find yourself repeating the same steps again and again? You shouldn't have to repeat yourself, this is the future and we have robots, servers, and code to take the repetitive strain out of your website management.
 

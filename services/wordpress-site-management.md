@@ -45,8 +45,7 @@ All of these problems lead to the same complaint: you have to email a developer 
 
 #### Advanced Custom Fields Pro & Custom Post Types
 
-
-To make your user interface powerful and reliable I leverage two of the largest and most well respected plugins, ACF Pro (normally $100 but all of my clients benefit from my enterprise license) and Custom Post Types UI (open source). These are well supported projects, built on core Wordpress features that you can depend on, not some custom hodge podge of code that only I understand. 
+To make your user interface powerful and reliable I leverage two of the largest and most well respected plugins, ACF Pro (normally $100 but all of my clients benefit from my enterprise license) and Custom Post Types UI (open source). These are well supported projects, built on core Wordpress features that you can depend on, not some custom hodge podge of code that only I understand.
 What you end up with is something that looks like this:
 
 ![](https://res.cloudinary.com/kylegrover/image/upload/./v1554767766/custom-fields.png)

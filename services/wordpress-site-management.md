@@ -33,7 +33,7 @@ Throughout my web career I've found time and time again that website owners aren
 
 ## Wordpress Custom & Customized User Interfaces
 
-![](https://res.cloudinary.com/kylegrover/image/upload/./v1554767786/custom-post-types.png){: .align-left }
+![](https://res.cloudinary.com/kylegrover/image/upload/./v1554767786/custom-post-types.png){: .align-right }
 
 I've seen three common problems when it comes to Wordpress admin interfaces, you either have:
 
@@ -48,7 +48,7 @@ All of these problems lead to the same complaint: you have to email a developer 
 To make your user interface powerful and reliable I leverage two of the largest and most well respected plugins, ACF Pro (normally $100 but all of my clients benefit from my enterprise license) and Custom Post Types UI (open source). These are well supported projects, built on core Wordpress features that you can depend on, not some custom hodge podge of code that only I understand.
 What you end up with is something that looks like this:
 
-![](https://res.cloudinary.com/kylegrover/image/upload/./v1554767766/custom-fields.png)
+![](https://res.cloudinary.com/kylegrover/image/upload/./v1554767766/custom-fields.png){: .align-center }
 
 This combination makes for a buttery smooth authoring workflow, happy editors, and the UI is so obvious it generally takes little to no training.
 

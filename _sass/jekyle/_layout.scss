@@ -302,11 +302,13 @@
 }
 
 .align-center { 
+    display: block;
     max-width: 500px;
     width: 90%;
     margin: 0 auto;
 }
 .align-left {
+    display: block;
     max-width: 500px;
     width: 90%;
     margin: 0 auto;
@@ -317,6 +319,7 @@
     }
 }
 .align-right {
+    display: block;
     max-width: 500px;
     width: 90%;
     margin: 0 auto;

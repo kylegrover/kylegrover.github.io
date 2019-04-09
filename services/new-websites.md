@@ -24,7 +24,11 @@ _Ready to go?_ Use my [website cost estimator](/services/new-website/cost-estima
 
 Check out my [updates, redesigns & migrations](/services/updates-redesigns-migrations) page to decide which option is right for you and estimate the cost, or just [send me a message](/contact).
 
-<hr>
+### What's the best website platform for me?
+
+You don't need to know which tools I use if you don't want to, you'll get a control panel that just works either way. If you're curious or have specific website needs you can read more about the two main types of sites I build: [static sites](/services/static-sites), great for artists, bloggers, and small businesses, and [wordpress sites](/services/wordpress-sites), for ecommerce, complex projects, and web DIY-ers.
+
+
 {% comment %}
 In the long run, hiring a good developer from the start is much cheaper than all the Tylenol you'll need if you don't.
 
@@ -33,5 +37,3 @@ In the long run, hiring a good developer from the start is much cheaper than all
 It can be hard to find a good web developer in Santa Cruz - everyone's either old and retired, young and likely to move away next year, or they've been snatched up by an agency locally or over the hill. I've been here for 10 years, have no plans of leaving, and I love working directly with clients.
 
 {% endcomment %}
-
-You don't need to know which tools I use if you don't want to, you'll get a control panel that just works either way, but if you're curious or have specific website needs you can read more about the two main types of sites I build: [static sites](/services/static-sites), great for artists, bloggers, and small businesses, and [wordpress sites](/services/wordpress-sites), for ecommerce, complex projects, and web DIY-ers.

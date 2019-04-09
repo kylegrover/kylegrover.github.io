@@ -18,8 +18,8 @@ fields:
   hidden: false
   default: ''
 pages:
-- services/web-scraping-automated-data-gathering.md
 - services.md
+- services/web-scraping-automated-data-gathering.md
 - about-this-site.md
 - client-work.md
 - index.md

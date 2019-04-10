@@ -61,7 +61,7 @@ $('header .main-nav a').click(function(){
 olark.identify('7471-379-10-1115');</script>
 <!-- end olark code -->
 <script src="{{ "/assets/vantajs/three.r92.min.js" | relative_url }}" type="text/javascript"></script>
-<script src="{{ "/assets/vantajs/vanta.fog.min.js" | relative_url }}" type="text/javascript"></script>
+<!-- <script src="{{ "/assets/vantajs/vanta.fog.min.js" | relative_url }}" type="text/javascript"></script>
 <script>
 VANTA.FOG({
   el: "body",
@@ -73,4 +73,15 @@ VANTA.FOG({
   speed: 1,
   zoom: 1.5
 });
+</script> -->
+<script src="{{ "/assets/vantajs/vanta.waves.min.js" | relative_url }}" type="text/javascript"></script>
+<script>
+VANTA.WAVES({
+  el: "body",
+  color: 0xc5c5c5,
+  shininess: 150.00,
+  waveHeight: 10.50,
+  waveSpeed: 0.75,
+  zoom: 0.65
+})
 </script>

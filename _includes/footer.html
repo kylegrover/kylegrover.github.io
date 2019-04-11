@@ -51,7 +51,7 @@ olark.identify('7471-379-10-1115');</script>
 <!-- end olark code -->
 <script src="{{ "/assets/vantajs/three.r92.min.js" | relative_url }}" type="text/javascript"></script>
 
-{% if page.permalink contains 'services' %}
+{% if page.url contains 'services' %}
   <script src="{{ "/assets/vantajs/vanta.net.min.js" | relative_url }}" type="text/javascript"></script>
   <script>
   VANTA.NET({
@@ -63,7 +63,7 @@ olark.identify('7471-379-10-1115');</script>
     spacing: 20.00
   })
   </script>
-{% elsif page.permalink contains 'client' or page.title == 'Bio & Contact' %}
+{% elsif page.url contains 'client' or page.title == 'Bio & Contact' %}
   <script src="{{ "/assets/vantajs/vanta.birds.min.js" | relative_url }}" type="text/javascript"></script>
   <script>
   VANTA.BIRDS({

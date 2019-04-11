@@ -63,58 +63,55 @@ olark.identify('7471-379-10-1115');</script>
 <script src="{{ "/assets/vantajs/three.r92.min.js" | relative_url }}" type="text/javascript"></script>
 
 {% if page.title == 'Bio & Contact' %}
-<script src="{{ "/assets/vantajs/vanta.fog.min.js" | relative_url }}" type="text/javascript"></script>
-<script>
-VANTA.FOG({
-  el: "body",
-  highlightColor: 0xffffff,
-  midtoneColor: 0xfddcef,
-  lowlightColor: 0x999999,
-  baseColor: 0xffffff,
-  blurFactor: 0.4,
-  speed: 1,
-  zoom: 1.5
-});
-</script>
-{% endif %}
-{% if page.title == 'Home' %}
-<script src="{{ "/assets/vantajs/vanta.waves.min.js" | relative_url }}" type="text/javascript"></script>
-<script>
-VANTA.WAVES({
-  el: "body",
-  color: 0xc5c5c5,
-  shininess: 150.00,
-  waveHeight: 10.50,
-  waveSpeed: 0.75,
-  zoom: 0.65
-})
-</script>
-{% endif %}
-{% if page.title == 'Services' %}
-<script src="{{ "/assets/vantajs/vanta.net.min.js" | relative_url }}" type="text/javascript"></script>
-<script>
-VANTA.NET({
-  el: "body",
-  color: 0xacacac,
-  backgroundColor: 0xfafafa,
-  points: 7.00,
-  maxDistance: 23.00,
-  spacing: 20.00
-})
-</script>
-{% endif %}
-{% if page.title == 'Client Work' %}
-<script src="{{ "/assets/vantajs/vanta.birds.min.js" | relative_url }}" type="text/javascript"></script>
-<script>
-VANTA.BIRDS({
-  el: "body",
-  backgroundColor: 0xfdfdfd,
-  color1: 0x87ff,
-  color2: 0x690f54,
-  colorMode: "lerpGradient",
-  separation: 75.00,
-  cohesion: 11.00,
-  quantity: 1.00
-})
-</script>
+  <script src="{{ "/assets/vantajs/vanta.fog.min.js" | relative_url }}" type="text/javascript"></script>
+  <script>
+  VANTA.FOG({
+    el: "body",
+    highlightColor: 0xffffff,
+    midtoneColor: 0xfddcef,
+    lowlightColor: 0x999999,
+    baseColor: 0xffffff,
+    blurFactor: 0.4,
+    speed: 1,
+    zoom: 1.5
+  });
+  </script>
+{% elsif page.title contains 'services' %}
+  <script src="{{ "/assets/vantajs/vanta.net.min.js" | relative_url }}" type="text/javascript"></script>
+  <script>
+  VANTA.NET({
+    el: "body",
+    color: 0xacacac,
+    backgroundColor: 0xfafafa,
+    points: 7.00,
+    maxDistance: 23.00,
+    spacing: 20.00
+  })
+  </script>
+{% elsif page.title contains 'client' %}
+  <script src="{{ "/assets/vantajs/vanta.birds.min.js" | relative_url }}" type="text/javascript"></script>
+  <script>
+  VANTA.BIRDS({
+    el: "body",
+    backgroundColor: 0xfdfdfd,
+    color1: 0x87ff,
+    color2: 0x690f54,
+    colorMode: "lerpGradient",
+    separation: 75.00,
+    cohesion: 11.00,
+    quantity: 1.00
+  })
+  </script>
+{% else %}
+  <script src="{{ "/assets/vantajs/vanta.waves.min.js" | relative_url }}" type="text/javascript"></script>
+  <script>
+  VANTA.WAVES({
+    el: "body",
+    color: 0xc5c5c5,
+    shininess: 150.00,
+    waveHeight: 10.50,
+    waveSpeed: 0.75,
+    zoom: 0.65
+  })
+  </script>
 {% endif %}

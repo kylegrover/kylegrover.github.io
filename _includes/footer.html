@@ -70,7 +70,7 @@ olark.identify('7471-379-10-1115');</script>
     el: "body",
     backgroundColor: 0xfdfdfd,
     color1: {%- if page.main_color -%}0x{{ page.main_color | remove: '#' }}{%- else -%}0x87ff{%- endif -%},
-    color2: 0x690f54,
+    color2: {%- if page.main_color -%}0x{{ page.main_color | remove: '#' }}{%- else -%}0x690f54{%- endif -%},
     colorMode: "lerpGradient",
     separation: 75.00,
     cohesion: 11.00,

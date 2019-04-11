@@ -6,12 +6,10 @@ layout: default
     <h1 class="page-heading"><a href="/client-work">Client Work</a> > {{ page.title }}</h1>
   {%- endif -%}
 
-  <div class="align-left">
-    {{ content }}
-  </div>
+  {{ content }}
   
   {%- if page.desktop_full_homepage -%}
-    <img src="{{ page.desktop_full_homepage }}" class="align-center">
+    <img src="{{ page.desktop_full_homepage }}" alt="{{ page.title }} Homepage Screenshot">
   {%- endif -%}
 
   <a href="{{ page.website }}" target="_blank" class="button" style="border-color: {{ page.main_color }}">Visit their website</a>

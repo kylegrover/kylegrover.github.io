@@ -1,13 +1,19 @@
 ---
 layout: default
 ---
-<div class="page client-work-single">
+<div class="page client-work-single" style="border: 2px solid {{ page.main_color }}">
   {%- if page.title -%}
     <h1 class="page-heading"><a href="/client-work">Client Work</a> > {{ page.title }}</h1>
   {%- endif -%}
 
-  {{ content }}
+  <div class="align-left">
+    {{ content }}
+  </div>
+  
+  {%- if page.desktop_full_homepage -%}
+    <img src="{{ page.desktop_full_homepage }}" class="align-center">
+  {%- endif -%}
 
-  <a href="{{ page.website }}" target="_blank">Visit their website</a>
+  <a href="{{ page.website }}" target="_blank" class="button" style="border-color: {{ page.main_color }}">Visit their website</a>
 
 </div>

@@ -43,17 +43,6 @@ $('header .main-nav a').click(function(){
     })
 });
 </script>
-{% if page.title == 'Bio & Contact' %}
-<script>
-  $( 'form.floating-labels input' ).keyup(function() {
-    if( $(this).val() ) {
-        $(this).addClass('not-empty');
-    } else {
-        $(this).removeClass('not-empty');
-    }
-  });
-</script>
-{% endif %}
 {%- include barbajs.html -%}
 <!-- begin olark code -->
 <script type="text/javascript" async> ;(function(o,l,a,r,k,y){if(o.olark)return; r="script";y=l.createElement(r);r=l.getElementsByTagName(r)[0]; y.async=1;y.src="//"+a;r.parentNode.insertBefore(y,r); y=o.olark=function(){k.s.push(arguments);k.t.push(+new Date)}; y.extend=function(i,j){y("extend",i,j)}; y.identify=function(i){y("identify",k.i=i)}; y.configure=function(i,j){y("configure",i,j);k.c[i]=j}; k=y._={s:[],t:[+new Date],c:{},l:a}; })(window,document,"static.olark.com/jsclient/loader.js");
@@ -62,7 +51,7 @@ olark.identify('7471-379-10-1115');</script>
 <!-- end olark code -->
 <script src="{{ "/assets/vantajs/three.r92.min.js" | relative_url }}" type="text/javascript"></script>
 
-{% if page.title contains 'services' %}
+{% if page.permalink contains 'services' %}
   <script src="{{ "/assets/vantajs/vanta.net.min.js" | relative_url }}" type="text/javascript"></script>
   <script>
   VANTA.NET({

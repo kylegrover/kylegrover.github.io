@@ -62,21 +62,7 @@ olark.identify('7471-379-10-1115');</script>
 <!-- end olark code -->
 <script src="{{ "/assets/vantajs/three.r92.min.js" | relative_url }}" type="text/javascript"></script>
 
-{% if page.title == 'Bio & Contact' %}
-  <script src="{{ "/assets/vantajs/vanta.fog.min.js" | relative_url }}" type="text/javascript"></script>
-  <script>
-  VANTA.FOG({
-    el: "body",
-    highlightColor: 0xffffff,
-    midtoneColor: 0xfddcef,
-    lowlightColor: 0x999999,
-    baseColor: 0xffffff,
-    blurFactor: 0.4,
-    speed: 1,
-    zoom: 1.5
-  });
-  </script>
-{% elsif page.title contains 'services' %}
+{% if page.title contains 'services' %}
   <script src="{{ "/assets/vantajs/vanta.net.min.js" | relative_url }}" type="text/javascript"></script>
   <script>
   VANTA.NET({
@@ -88,7 +74,7 @@ olark.identify('7471-379-10-1115');</script>
     spacing: 20.00
   })
   </script>
-{% elsif page.title contains 'client' %}
+{% elsif page.title contains 'client' or page.title == 'Bio & Contact' %}
   <script src="{{ "/assets/vantajs/vanta.birds.min.js" | relative_url }}" type="text/javascript"></script>
   <script>
   VANTA.BIRDS({

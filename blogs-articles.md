@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Blogs & Articles
-permalink: "/blogs-articles/"
+permalink: "/blogs-articles"
 date: 2019-04-20 18:45:44 +0000
 
 ---

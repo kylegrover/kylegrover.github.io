@@ -18,7 +18,6 @@ fields:
   hidden: false
   default: ''
 pages:
-- _posts/2019-04-20-test-post.md
 - services.md
 - services/web-scraping-automated-data-gathering.md
 - about-this-site.md

@@ -18,6 +18,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- _posts/test-post.md
 - services.md
 - services/web-scraping-automated-data-gathering.md
 - about-this-site.md

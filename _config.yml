@@ -13,8 +13,6 @@ footer_copyright_text: Developed, designed, and hosted by Kyle Grover.
 collections:
   client-work:
     output: true
-  advice-for-website-owners:
-    output: true
 cloudinary_url: https://res.cloudinary.com/kylegrover/image/upload/
 # Build settings
 markdown: kramdown

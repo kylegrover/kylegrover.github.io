@@ -18,6 +18,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- Blog/code-art.md
 - Blog/web-dev.md
 - blogs-articles.md
 - services.md

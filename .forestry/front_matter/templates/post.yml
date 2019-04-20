@@ -1,4 +1,71 @@
 ---
 label: Post
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+- name: category
+  type: select
+  default: Web Dev
+  config:
+    required: true
+    options:
+    - Code Art
+    - Web Dev
+    - Music
+    source:
+      type: simple
+      section: jekyll-posts
+      file: 
+      path: 
+  label: Category
+- name: tags
+  type: tag_list
+  default: []
+  label: Tags
+- name: background
+  type: select
+  default: Default
+  config:
+    required: false
+    options:
+    - Default
+    - Birds
+    - Network
+    - Waves
+    - Color
+    - Image
+    - GLSL
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Background
+- name: background_color
+  type: color
+  label: Background Color
+  config:
+    required: false
+    color_format: Hex
+  hidden: false
+  description: Only applies if Background is set to Color
+- name: background_image
+  type: file
+  config:
+    maxSize: '5'
+  label: Background Image
+  description: Only applies if Background is set to Image
+- name: background_glsl
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Background GLSL
+  description: Only applies if Background is set to GLSL

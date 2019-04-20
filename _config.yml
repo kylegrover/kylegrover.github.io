@@ -18,3 +18,4 @@ collections:
 cloudinary_url: https://res.cloudinary.com/kylegrover/image/upload/
 # Build settings
 markdown: kramdown
+permalink: /:categories/:year/:month/:day/:title:output_ext

@@ -18,6 +18,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- Blog/web-dev.md
 - blogs-articles.md
 - services.md
 - services/web-scraping-automated-data-gathering.md

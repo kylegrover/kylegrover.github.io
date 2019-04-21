@@ -72,17 +72,17 @@ Now we have two variables, our custom slider that goes from 0 to 1, and our chos
 
 **Multiplying**: this one's simple, I'll just add this line before the return line: `fragColor.r *= my_new_slider;` In english: Take the current red channel value and multiply it by my slider value. With this saved, the slider has no effect when it's at the top, and at the bottom it removes the red entirely. Here's how it looks around 0.3:
 
-![](https://res.cloudinary.com/kylegrover/image/upload/./v1555785135/glassier-slider-red-times-equals.png){: .align-center }
+![](https://res.cloudinary.com/kylegrover/image/upload/./v1555785135/glassier-slider-red-times-equals.png){: .align-wide }
 
 Not bad, one line of code gives us a new color scheme!
 
 **Overriding**: even easier, instead of `*=` we'll just use `=`. When the slider's at the bottom this will look just like when we multiplied - no red - but as you dial it up it'll add a flat red tinge to everything:
 
-![](https://res.cloudinary.com/kylegrover/image/upload/./v1555785568/glassier-slider-red-override.png){: .align-center }
+![](https://res.cloudinary.com/kylegrover/image/upload/./v1555785568/glassier-slider-red-override.png){: .align-wide }
 
 **Weird Stuff**: Let's branch out. What if we raise the red value to the power of the slider, or vice versa? How about if we wrap it in a modulo operator? Let's try both with `fragColor.r = mod(pow(my_new_slider, fragColor.r), 0.1) * 10.0;`
 
-![](https://res.cloudinary.com/kylegrover/image/upload/./v1555784909/glassier-slider-red-mod-pow.png){: .align-center }
+![](https://res.cloudinary.com/kylegrover/image/upload/./v1555784909/glassier-slider-red-mod-pow.png){: .align-wide }
 
 Wicked! And there's no end to the depth of control you can configure. In that line above I included a few hard-coded numbers, `0.1` and `10.0` - those could both also be sliders instead.
 

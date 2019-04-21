@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Santa Cruz Wordpress Website Management
-permalink: "/services/wordpress-website-management"
+permalink: "/services/wordpress-website-management/"
 
 ---
 Wordpress can be a pain to manage, especially as the site ages, the database grows, and the theme and plugins get older and less supported - or just outright hacked or broken. Sometimes it gets to be too much and you just want to throw it out and start over. Well, if you really want to do that, [I can do that](/services/updates-redesigns-migrations), but before you take that leap there are some simpler steps to try,

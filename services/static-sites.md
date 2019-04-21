@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Static Sites
-permalink: "/services/static-sites"
 
 ---
 <hr>

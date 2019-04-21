@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Website Updates, Redesigns & Hosting/CMS Migrations
-permalink: "/services/updates-redesigns-migrations"
+permalink: "/services/updates-redesigns-migrations/"
 
 ---
 #### Modern Responsive Redesigns • Platform Migrations • Hacked Website Recovery

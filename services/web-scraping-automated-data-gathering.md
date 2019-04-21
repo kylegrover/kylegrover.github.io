@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Web Scraping & Automated Data Gathering
-permalink: "/services/web-scraping-data-gathering"
+permalink: "/services/web-scraping-data-gathering/"
 date: 2019-04-02 00:24:01 +0000
 published: false
 

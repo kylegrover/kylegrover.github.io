@@ -39,7 +39,7 @@ Wordpress is an incredibly powerful CMS, but with great power comes great overhe
     - A few hundred every year or two to fix a vulnerablity or broken upgrade... this is getting costly
 - Speed:
     - Every time you load a Wordpress page, it sends a request to a server computer that dynamically processes the request and returns a webpage. This is incredibly powerful... and incredibly slow.
-    - With static sites, everything is rendered any time you make an update in the admin panel. This means nobody will ever [abandon your site waiting for it to load](https://blog.kissmetrics.com/wp-content/uploads/2011/04/loading-time.pdf).
+    - With static sites, everything is rendered any time you make an update in the admin panel. This means nobody will ever <a href="https://blog.kissmetrics.com/wp-content/uploads/2011/04/loading-time.pdf" target="_blank">abandon your site waiting for it to load</a>.
 
 In a nutshell, by building your whole website ahead of time instead of building each page every time someone visits your site you take away all maintenance and security concerns, and reduce your ongoing costs and page load times to the lowest possible. 
 

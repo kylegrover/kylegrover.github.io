@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Site Audits & Web Consultations
-permalink: "/services/site-audits-and-web-consultations"
 
 ---
 ### Spot Critical Errors • Optimize Your Web Presence • Utilize Modern Services

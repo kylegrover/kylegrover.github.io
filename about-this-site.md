@@ -15,7 +15,7 @@ That's intentional.
 
 A lot of the web has gotten to be crowded and loud. Sometime's it feels like walking downtown at night with neon signs glaring. This website doesn't need to be that. You're here for info, not stock photos.
 
-For more on this line of reasoning, and a few chuckles, see [https://motherfuckingwebsite.com/](https://motherfuckingwebsite.com/) [http://bettermotherfuckingwebsite.com/](http://bettermotherfuckingwebsite.com/) and [https://bestmotherfucking.website/](https://bestmotherfucking.website/)
+For more on this line of reasoning, and a few chuckles, see <a href="https://motherfuckingwebsite.com/" target="_blank">https://motherfuckingwebsite.com/</a> <a href="http://bettermotherfuckingwebsite.com/" target="_blank">http://bettermotherfuckingwebsite.com/</a> and <a href="https://bestmotherfucking.website/" target="_blank">https://bestmotherfucking.website/</a>
 
 <br>
 

@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Wordpress Sites
-permalink: "/services/wordpress-sites"
 
 ---
 ## Starting at $500

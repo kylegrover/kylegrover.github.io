@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Blog
-permalink: "/blog"
 date: 2019-04-20 18:45:44 +0000
 
 ---

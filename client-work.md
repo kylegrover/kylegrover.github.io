@@ -1,7 +1,6 @@
 ---
 layout: client-work-index
 title: Client Work
-permalink: /client-work
 
 ---
 #### a handful of projects I've enjoyed working on recently

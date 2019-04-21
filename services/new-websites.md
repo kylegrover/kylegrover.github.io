@@ -1,7 +1,6 @@
 ---
 layout: page
 title: New Websites - Designed, Developed & Hosted
-permalink: "/services/new-websites"
 
 ---
 ### Websites Starting at $400
@@ -14,19 +13,19 @@ Websites are complicated. You're not a web developer, you're a dreamer, an artis
 
 I will talk directly with you to develop a clear understanding of your goals and work with you to help create a functional and helpful home base on the internet.
 
-[Contact me](/contact){: .button } to start the conversation.
+[Contact me](/contact/){: .button } to start the conversation.
 
 {% comment %}
-_Ready to go?_ Use my [website cost estimator](/services/new-website/cost-estimator) to calculate your costs or [contact me](/contact) to start the conversation.
+_Ready to go?_ Use my [website cost estimator](/services/new-website/cost-estimator/) to calculate your costs or [contact me](/contact/) to start the conversation.
 {% endcomment %}
 
 ### Already have a website?
 
-Check out my [updates, redesigns & migrations](/services/updates-redesigns-migrations) page to decide which option is right for you and estimate the cost, or just [send me a message](/contact).
+Check out my [updates, redesigns & migrations](/services/updates-redesigns-migrations/) page to decide which option is right for you and estimate the cost, or just [send me a message](/contact/).
 
 ### What's the best website platform for me?
 
-You don't need to know which tools I use if you don't want to, you'll get a control panel that just works either way. If you're curious or have specific website needs you can read more about the two main types of sites I build: [static sites](/services/static-sites), great for artists, bloggers, and small businesses, and [wordpress sites](/services/wordpress-sites), for ecommerce, complex projects, and web DIY-ers.
+You don't need to know which tools I use if you don't want to, you'll get a control panel that just works either way. If you're curious or have specific website needs you can read more about the two main types of sites I build: [static sites](/services/static-sites/), great for artists, bloggers, and small businesses, and [wordpress sites](/services/wordpress-sites/), for ecommerce, complex projects, and web DIY-ers.
 
 
 {% comment %}

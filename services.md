@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Services
-permalink: "/services"
 
 ---
 <div class="fadein fadein-1" markdown="1">

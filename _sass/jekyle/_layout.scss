@@ -307,6 +307,58 @@
     width: 90%;
     margin: 0 auto;
 }
+
+.align-wide { 
+  display: block;
+  max-width: 500px;
+  width: 90%;
+  margin: 0 auto;
+  @media (min-width: 900px) {
+    width: 125%;
+    max-width: 125%;
+    margin: 0 -12.5%;
+  }
+}
+
+.align-verywide { 
+    display: block;
+    max-width: 500px;
+    width: 90%;
+    margin: 0 auto;
+    @media (min-width: 900px) {
+      width: 125%;
+      max-width: 125%;
+      margin: 0 -12.5%;
+    }
+    @media (min-width: 1200px) {
+      width: 150%;
+      max-width: 150%;
+      margin: 0 -25%;
+    }
+}
+
+.align-doublewide { 
+    display: block;
+    max-width: 500px;
+    width: 90%;
+    margin: 0 auto;
+    @media (min-width: 900px) {
+      width: 125%;
+      max-width: 125%;
+      margin: 0 -12.5%;
+    }
+    @media (min-width: 1200px) {
+      width: 150%;
+      max-width: 150%;
+      margin: 0 -25%;
+    }
+    @media (min-width: 1500px) {
+      width: 200%;
+      max-width: 200%;
+      margin: 0 -50%;
+    }
+}
+
 .align-left {
     display: block;
     max-width: 500px;

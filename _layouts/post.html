@@ -4,7 +4,13 @@ layout: default
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
-    <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+    <div style="text-align: left;">
+      <a href="/blog/">Blog</a> > 
+      <a href="/blog/{{ page.category | slugify }}/">{{ page.category }}</a> > 
+    </div>
+    <br>
+    <h1 class="post-title p-name" itemprop="name headline">{{ page.title | e }}</h1>
+    
     <p class="post-meta">
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {%- assign date_format = site.jekyle.date_format | default: "%b %-d, %Y" -%}
@@ -23,7 +29,10 @@ layout: default
 
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
-  {%- endif -%}
+  {% else %}  
+<hr>
+<em>My blog doesn't have a comment system enabled currently, but please contact me with any feedback, I'll credit you if it results in an update to the post.</em>
+  {% endif %}
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>

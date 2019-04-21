@@ -19,7 +19,9 @@ This guide aims to take an absolute beginner through all the steps needed withou
 
 ## A Quick Overview of the Process
 
-Before we start editing files let's take a step back and look at how a scene is structured and how the program reads it. Synesthesia scenes have 4 main files, each in a different format:
+I'm going to break this down into two basic steps: first we'll create a slider, then we'll modify the code so our slider modifies something. Once you're comfortable with that it's just rinse and repeat until something cool happens.
+
+But before we start editing files let's take a step back and look at how a scene is structured and how the program reads it. Synesthesia scenes have 4 main files, each in a different format:
 
 * **main.glsl:** graphics processing code lives here
 * **scene.json:** settings are written here in JSON (I'll talk more about JSON below)
@@ -28,7 +30,7 @@ Before we start editing files let's take a step back and look at how a scene is 
 
 _Note: Synesthesia Scenes can also include any number of additional images to read from within your GLSL code._
 
-Thankfully we only need to work with 2 or 3 of those files, depending on the scene. First we'll focus on the simpler scenario where we're only editing the GLSL file and the JSON file, then we'll discuss the JS file.
+Thankfully we only need to work with 2 or 3 of those files, depending on the scene. First we'll focus on the most common scenario where we're only editing the GLSL file and the JSON file, after that we'll deal with the JavaScript file.
 
 ## Adding a Slider to the Scene
 
@@ -88,9 +90,6 @@ Wicked! And there's no end to the depth of control you can configure. In that li
 
 This post has really grown beyond my initial plans and I'm going to call it for now and post what I have online. Hopefully this helps someone out, check back in for an updated version where I tackle the scripts.js file as well as a few tips for smoothly modifying your time variables.
 
-***
-
-_My blog doesn't have comments yet, but feel free to contact me with any feedback, I'll credit you if it results in an update to the post._
 
 {% comment %}
 

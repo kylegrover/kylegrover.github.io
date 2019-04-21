@@ -12,9 +12,9 @@ background_glsl: ''
 date: 2019-04-20 18:41:46 +0000
 
 ---
-So you've downloaded [Synesthesia](http://synesthesia.live/), you're playing around with the scenes and having fun, but you want to control something and the slider just isn't there. Maybe you want to control the speed of an effect, or more control over the audio reactivity, I see a lot of people asking questions about Synesthesia scenes that ultimately boil down to needing this skill, so I figured I'd type it out real nice one time to share again and again.
+So you've downloaded <a href="http://synesthesia.live/" target="_blank">Synesthesia</a>, you're playing around with the scenes and having fun, but you want to control something and the slider just isn't there. Maybe you want to control the speed of an effect, or more control over the audio reactivity, I see a lot of people asking questions about Synesthesia scenes that ultimately boil down to needing this skill, so I figured I'd type it out real nice one time to share again and again.
 
-This guide aims to take an absolute beginner through all the steps needed without requiring or diving into the fundamentals of coding, GLSL, JS, or JSON, but those are all great fundamentals you'll want to learn at some point. If you'd like to build your understanding of GLSL Code Art I highly recommend the free online [Book of Shaders](https://thebookofshaders.com/) and of course [Synesthesia's Official Docs](https://www.synesthesia.live/docs/index.html).
+This guide aims to take an absolute beginner through all the steps needed without requiring or diving into the fundamentals of coding, GLSL, JS, or JSON, but those are all great fundamentals you'll want to learn at some point. If you'd like to build your understanding of GLSL Code Art I highly recommend the free online <a href="https://thebookofshaders.com/" target="_blank">Book of Shaders</a> and of course <a href="https://www.synesthesia.live/docs/index.html" target="_blank">Synesthesia's Official Docs</a>.
 
 ## A Quick Overview of the Process
 
@@ -34,8 +34,8 @@ Thankfully we only need to work with 2 or 3 of those files, depending on the sce
 Let's start out by adding our own slider to the control panel. It won't do anything yet, but it's a good place to start. I'll be working with the default scene Glassier if you'd like to work along.
 
 1. If you don't have a scene ready to edit, choose one from the library view and click the "duplicate scene" button indicated by two documents, then find that new scene (ie "Glassier_dup") and click the "edit scene" button indicated by a pencil.
-2. You should be greeted by the scenes folder. Open the file "scene.json" in your [favorite code editor](https://mikkegoes.com/finding-the-best-text-editor-for-coding/) (it may appear as just "scene" depending on your OS preferences)
-3. Note all the existing settings, and the format they're written in. Try to figure out what they're doing. If you're editing Glassier like I am, note that it's made by the fantastic [Felix Woitzel](https://www.shadertoy.com/user/Flexi).
+2. You should be greeted by the scenes folder. Open the file "scene.json" in your <a href="https://mikkegoes.com/finding-the-best-text-editor-for-coding/" target="_blank">favorite code editor</a> (it may appear as just "scene" depending on your OS preferences)
+3. Note all the existing settings, and the format they're written in. Try to figure out what they're doing. If you're editing Glassier like I am, note that it's made by the fantastic <a href="https://www.shadertoy.com/user/Flexi" target="_blank">Felix Woitzel</a>.
 4. Find the section wrapped in `_"CONTROLS"_`` : [ ... ]` and add this after the `[` but before the next `{`
 
        {
@@ -49,7 +49,7 @@ Let's start out by adding our own slider to the control panel. It won't do anyth
        },
 5. Save the file and reload your scene in Synesthesia. If you did everything right, you should see your slider show up in the control panel. It won't do anything yet, but we're getting somewhere! If you see loads of red text in the Console Output at bottom right, you probably goofed up your syntax, as I expertly demonstrate in the screenshot below. Code editors with color highlighting are your best friend for spotting these types of errors.
 
-![](https://res.cloudinary.com/kylegrover/image/upload/./v1555781631/goofed-up-json-syntax-synesthesia.png)
+![](https://res.cloudinary.com/kylegrover/image/upload/./v1555781631/goofed-up-json-syntax-synesthesia.png){: .align-center }
 
 ## Connecting Your Slider to a GLSL Variable
 
@@ -59,7 +59,7 @@ Put simply, we're going to use our variable to modify another variable. Every bi
 
 #### Choosing a Variable or Number
 
-Your options here are truly limitless, but to avoid diving into the specifics of how one shader works I'll play with something that's relevant to every scene: color. If you don't know what you want to modify, just pick a random variable or number and see what happens when you modify it! If you do have a specific idea in mind, you might luck out by searching for a relevant variable name or exploring [Synesthesia's built in "Uniforms"](https://www.synesthesia.live/docs/uniforms/index.html), but you might need to spend a while getting know the code before you find that magic variable.
+Your options here are truly limitless, but to avoid diving into the specifics of how one shader works I'll play with something that's relevant to every scene: color. If you don't know what you want to modify, just pick a random variable or number and see what happens when you modify it! If you do have a specific idea in mind, you might luck out by searching for a relevant variable name or exploring <a href="https://www.synesthesia.live/docs/uniforms/index.html" target="_blank">Synesthesia's built in "Uniforms"</a>, but you might need to spend a while getting know the code before you find that magic variable.
 
 I'm going to bypass all of that for now by jumping right to the end of the GLSL file and finding the final `return` line - for Glassier that was line 783: `return fragColor;`. This line says "okay, we're done here, set the current pixel to this RGBA color". The variable I'll be modifying is fragColor, or more specifically fragColor.r - the red value.
 
@@ -69,17 +69,17 @@ Now we have two variables, our custom slider that goes from 0 to 1, and our chos
 
 **Multiplying**: this one's simple, I'll just add this line before the return line: `fragColor.r *= my_new_slider;` In english: Take the current red channel value and multiply it by my slider value. With this saved, the slider has no effect when it's at the top, and at the bottom it removes the red entirely. Here's how it looks around 0.3:
 
-![](https://res.cloudinary.com/kylegrover/image/upload/./v1555785135/glassier-slider-red-times-equals.png)
+![](https://res.cloudinary.com/kylegrover/image/upload/./v1555785135/glassier-slider-red-times-equals.png){: .align-center }
 
 Not bad, one line of code gives us a new color scheme!
 
 **Overriding**: even easier, instead of `*=` we'll just use `=`. When the slider's at the bottom this will look just like when we multiplied - no red - but as you dial it up it'll add a flat red tinge to everything:
 
-![](https://res.cloudinary.com/kylegrover/image/upload/./v1555785568/glassier-slider-red-override.png)
+![](https://res.cloudinary.com/kylegrover/image/upload/./v1555785568/glassier-slider-red-override.png){: .align-center }
 
 **Weird Stuff**: Let's branch out. What if we raise the red value to the power of the slider, or vice versa? How about if we wrap it in a modulo operator? Let's try both with `fragColor.r = mod(pow(my_new_slider, fragColor.r), 0.1) * 10.0;`
 
-![](https://res.cloudinary.com/kylegrover/image/upload/./v1555784909/glassier-slider-red-mod-pow.png)
+![](https://res.cloudinary.com/kylegrover/image/upload/./v1555784909/glassier-slider-red-mod-pow.png){: .align-center }
 
 Wicked! And there's no end to the depth of control you can configure. In that line above I included a few hard-coded numbers, `0.1` and `10.0` - those could both also be sliders instead.
 

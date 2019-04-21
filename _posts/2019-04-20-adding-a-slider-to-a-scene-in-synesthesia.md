@@ -10,6 +10,7 @@ background_color: ''
 background_image: ''
 background_glsl: ''
 date: 2019-04-20 18:41:46 +0000
+layout: post
 
 ---
 So you've downloaded <a href="http://synesthesia.live/" target="_blank">Synesthesia</a>, you're playing around with the scenes and having fun, but you want to control something and the slider just isn't there. Maybe you want to control the speed of an effect, or more control over the audio reactivity, I see a lot of people asking questions about Synesthesia scenes that ultimately boil down to needing this skill, so I figured I'd type it out real nice one time to share again and again.

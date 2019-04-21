@@ -12,8 +12,9 @@ layout: default
       </time>
       {%- if page.author -%}
         • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author | escape }}</span></span>
-      {%- endif -%}</p>
-      {% include read-time.html %}
+      {%- endif -%}
+      • {% include read-time.html %}
+    </p>
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">

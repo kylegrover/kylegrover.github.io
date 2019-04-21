@@ -5,8 +5,10 @@ layout: default
 
   <header class="post-header">
     <div style="text-align: left;">
-      <a href="/blog/">Blog</a> > 
-      <a href="/blog/{{ page.category | slugify }}/">{{ page.category }}</a> > 
+      <a href="/blog/">Blog</a> >
+      <!-- need to add blog cat pages --> 
+      <!-- <a href="/blog/{{ page.category | slugify }}/">{{ page.category }}</a> >  -->
+      {{ page.category }} > 
     </div>
     <br>
     <h1 class="post-title p-name" itemprop="name headline">{{ page.title | e }}</h1>

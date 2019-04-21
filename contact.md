@@ -7,9 +7,11 @@ myface: "kyle-profile.jpg"
 <img class="myface" src="{{ site.cloudinary_url }}/w_250/{{ page.myface }}">
 
 I'm a freelance web developer, programmer, and digital artist living in beautiful Santa Cruz, California.
-When I'm not making websites and drinking lots of coffee, I'm probably working on art, getting lost in indie video games, or checking out some local music.
+When I'm not making websites and drinking lots of coffee, I'm probably working on art, playing indie video games, or checking out some local music.
 
 I'm available for freelance work, check out my [services](/services/).
+
+Sometimes I write words, check out my [blog](/blog/).
 
 ## Let's Chat
 

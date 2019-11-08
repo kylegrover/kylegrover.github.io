@@ -35,7 +35,7 @@ If your website relies heavily on one or more of these features, you might be be
 
 Not sure which is right for you? Tell me about your website! I'll let you know what I recommend.
 
-<form action="https://formspree.io/kyle@kylegrover.com" method="POST" class="contact-form floating-labels">
+<form netlify name="Static Sites Page" action="https://formspree.io/kyle@kylegrover.com" method="POST" class="contact-form floating-labels">
    <div class="form-field-row">
       <div class="form-field">
          <input id="name" class="input-text" type="text" required="">

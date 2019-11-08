@@ -18,7 +18,7 @@ If your website is doing well, it'll eventually outgrow it's hosting plan and wi
 
 If managing your website has become a complicated chore, or if you can't control your website's content at all, it might be time for a new CMS, such as Wordpress, Contenful, or Shopify. I can help you choose, set up, and learn a new CMS without disrupting your site design, search ranking, or anything else on your server. A better, happier editing experience is just a conversation away.
 
-<form action="https://formspree.io/kyle@kylegrover.com" method="POST" class="contact-form floating-labels">
+<form netlify name="Updates Redesigns Migrations Page" action="https://formspree.io/kyle@kylegrover.com" method="POST" class="contact-form floating-labels">
    <div class="form-field-row">
       <div class="form-field">
          <input id="name" class="input-text" type="text" required="">

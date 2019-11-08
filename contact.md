@@ -15,7 +15,7 @@ Sometimes I write words, check out my [blog](/blog/).
 
 ## Let's Chat
 
-<form action="https://formspree.io/kyle@kylegrover.com" method="POST" class="contact-form floating-labels">
+<form name="Contact Page" netlify method="POST" class="contact-form floating-labels">
    <div class="form-field-row">
       <div class="form-field">
          <input id="name" class="input-text" type="text" required>

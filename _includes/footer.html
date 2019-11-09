@@ -42,6 +42,15 @@ $('header .main-nav a').click(function(){
       }
     })
 });
+
+
+$( 'form.floating-labels input' ).keyup(function() {
+  if( $(this).val() ) {
+      $(this).addClass('not-empty');
+  } else {
+      $(this).removeClass('not-empty');
+  }
+});
 </script>
 {%- include barbajs.html -%}
 <!-- begin olark code -->

@@ -3,7 +3,7 @@ layout: page
 title: New Websites - Designed, Developed & Hosted
 
 ---
-### Websites Starting at $400
+### Websites Starting as low as $400 with ongoing costs as low as $20 <em>per year<em>!
 
 ## Portfolios, Blogs, Web Stores - Anything you can imagine
 

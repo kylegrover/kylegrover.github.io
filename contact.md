@@ -36,15 +36,3 @@ Sometimes I write words, check out my [blog](/blog/).
     <input style="display: none" name="_gotcha">
     <input style="display: none" name="_next" value="/thanks/">
 </form>
-
-<script>
-jQuery(document).ready(function($){
-  $( 'form.floating-labels input' ).keyup(function() {
-    if( $(this).val() ) {
-        $(this).addClass('not-empty');
-    } else {
-        $(this).removeClass('not-empty');
-    }
-  });
-})
-</script>

@@ -5,6 +5,7 @@ title: New Websites - Designed, Developed & Hosted
 ---
 <div class="new-websites-splash">
 I make websites:
+<br>
 <div>🏎️<span>Fast</span></div>
 <div>🌸<span>Beautiful</span></div>
 <div>📱<span>Responsive</span></div>
@@ -12,9 +13,11 @@ I make websites:
 <div>🕶️<span>Accessible</span></div>
 <div>✅<span>Effective</span></div>
 <div>💵<span>Affordable</span></div>
+<br>
 And that makes my clients:
 <div>😁<span>Happy</span></div>
 </div>
+<br>
 
 ### Websites starting as low as $400 with ongoing costs as low as $20 <em>per year<em>!
 

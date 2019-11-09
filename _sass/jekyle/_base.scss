@@ -478,7 +478,7 @@ a.button {
     position: absolute;
     left: 100%;
   }
-  &:nth-of-type(odd) {
+  &:nth-of-type(odd) span {
     left: auto;
     right: 100%;
   }

@@ -3,17 +3,28 @@ layout: page
 title: New Websites - Designed, Developed & Hosted
 
 ---
-### Websites Starting as low as $400 with ongoing costs as low as $20 <em>per year<em>!
+<div class="new-websites-splash">
+I design, build, and host websites that are:<br>
+🏎️ Fast<br>
+🌸 Beautiful<br>
+📱 Responsive<br>
+🔒 Unhackable<br>
+🕶️ Accessible<br>
+✅ Effective<br>
+💵 Affordable<br>
+</div>
+
+### Websites starting as low as $400 with ongoing costs as low as $20 <em>per year<em>!
 
 ## Portfolios, Blogs, Web Stores - Anything you can imagine
 
-Websites are complicated. You're not a web developer, you're a dreamer, an artist or business owner. You probably have a vision, not a wireframe or a written list of web marketing goals. You bring me the vision, I bring you the website. 
+Websites are complicated. You're not a web developer and you don't want to be. You're a dreamer, an artist or business owner. Whether you have a vision, a wireframe or a written list of web marketing goals, or you just have a project or business you want to share with the world: You bring me the vision, I bring you the website. 
 
 > There aren't many places you can get direct one-to-one interaction with a web developer that actually gives a shit about your project. 
 
 I will talk directly with you to develop a clear understanding of your goals and work with you to help create a functional and helpful home base on the internet.
 
-[Contact me](/contact/){: .button } to start the conversation.
+[Contact me](/contact/){: .button.contact-button } to start the conversation.
 
 {% comment %}
 _Ready to go?_ Use my [website cost estimator](/services/new-website/cost-estimator/) to calculate your costs or [contact me](/contact/) to start the conversation.

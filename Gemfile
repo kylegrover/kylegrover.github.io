@@ -13,7 +13,6 @@ gem "jekyll", "~> 3.8.5"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-seo-tag", "~> 2.1"
-  gem "jekyll-menus", "~> 0.6"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem

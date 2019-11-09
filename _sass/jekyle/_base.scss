@@ -456,3 +456,16 @@ footer {
   from { transform: translate3d(0, 40px, 0); }
   to { transform: translate3d(0, 0, 0); }
 }
+
+a.button {
+  background: $brand-color;
+  color: white;
+  line-height: 1;
+  display: inline-block;
+  white-space: nowrap;
+  padding: 0.25em 0.5em;
+  border-radius: 1em;
+  &.contact-button {
+    background: #7e4dc5;
+  }
+}

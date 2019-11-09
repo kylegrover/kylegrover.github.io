@@ -469,3 +469,17 @@ a.button {
     background: #7e4dc5;
   }
 }
+
+.new-websites-splash div {
+  position: relative;
+  max-width: max-content;
+  margin: 0 auto;
+  span {
+    position: absolute;
+    left: 100%;
+  }
+  &:nth-of-type(odd) {
+    left: auto;
+    right: 100%;
+  }
+}

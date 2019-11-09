@@ -4,14 +4,16 @@ title: New Websites - Designed, Developed & Hosted
 
 ---
 <div class="new-websites-splash">
-I design, build, and host websites that are:<br>
-🏎️ Fast<br>
-🌸 Beautiful<br>
-📱 Responsive<br>
-🔒 Unhackable<br>
-🕶️ Accessible<br>
-✅ Effective<br>
-💵 Affordable<br>
+I make websites:
+<div>🏎️<span>Fast</span></div>
+<div>🌸<span>Beautiful</span></div>
+<div>📱<span>Responsive</span></div>
+<div>🔒<span>Unhackable</span></div>
+<div>🕶️<span>Accessible</span></div>
+<div>✅<span>Effective</span></div>
+<div>💵<span>Affordable</span></div>
+And that makes my clients:
+<div>😁<span>Happy</span></div>
 </div>
 
 ### Websites starting as low as $400 with ongoing costs as low as $20 <em>per year<em>!

@@ -11,8 +11,8 @@ I make websites:
 <div>📱<span>Responsive</span></div>
 <div>🔒<span>Unhackable</span></div>
 <div>🕶️<span>Accessible</span></div>
-<div>✅<span>Effective</span></div>
 <div>💵<span>Affordable</span></div>
+<div>✅<span>Effective</span></div>
 <br>
 And that makes my clients:
 <div>😁<span>Happy</span></div>

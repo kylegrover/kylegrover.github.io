@@ -46,7 +46,7 @@ title: Resume
 </ul>
 </div>
 <br>
-<a href="/contact/" class="contact-kyle contact-kyle-small">Contact me <i class="fal fa-comment" aria-hidden="true"></a>
+<a href="/contact/" class="contact-kyle contact-kyle-small">Contact me <i class="fal fa-comment" aria-hidden="true"></i></a>
 <br>
 <h1 class="c36"><span class="c35">Freelance Projects</span></h1>
 <p class="c3 c6"><span class="c0"></span></p>
@@ -56,7 +56,7 @@ title: Resume
 </div>
 <div style="flex: 1 0 150px; padding-left: 5px;">
     <h3 class="c22 c11" style="margin: 0; padding-top: 0; text-decoration: none;"><a style="border-radius: 2px;
-box-shadow: 0 1px 5px rgba(0,0,0,0.1); padding: 10px; border: 1px solid; display: block;" class="c8" target="_blank" href="https://willkreiser.com/">Will Kreiser <i style="float: right;" class="fas fa-external-link-alt"></a></h3><br><span class="c1 c11"><strong>“Help, I’ve been hacked!”</strong><p>When I found out my friend Will’s website had been hacked, of course I offered to help to fix it. We logged into his host, backed up his latest files and databases off the server, and reverted to a previous backup (always keep backups!). But oh no, even on his oldest backup, it was still compromised. Now what, is it totalled?<br>No way. I copied his site to an isolated development environment, purged clearly malicious data and users, deleted questionable plugins, updated everything, and started a security scan. His website was back in action that day</p></span>
+box-shadow: 0 1px 5px rgba(0,0,0,0.1); padding: 10px; border: 1px solid; display: block;" class="c8" target="_blank" href="https://willkreiser.com/">Will Kreiser <i style="float: right;" class="fas fa-external-link-alt"></i></a></h3><br><span class="c1 c11"><strong>“Help, I’ve been hacked!”</strong><p>When I found out my friend Will’s website had been hacked, of course I offered to help to fix it. We logged into his host, backed up his latest files and databases off the server, and reverted to a previous backup (always keep backups!). But oh no, even on his oldest backup, it was still compromised. Now what, is it totalled?<br>No way. I copied his site to an isolated development environment, purged clearly malicious data and users, deleted questionable plugins, updated everything, and started a security scan. His website was back in action that day</p></span>
 </div>
 <div class="web-work-types">
 </div>
@@ -67,7 +67,7 @@ box-shadow: 0 1px 5px rgba(0,0,0,0.1); padding: 10px; border: 1px solid; display
 </div>
 <div style="flex: 1 0 150px; padding-left: 5px;">
     <h3 class="c22 c11" style="margin: 0; padding-top: 0; text-decoration: none;"><a style="border-radius: 2px;
-box-shadow: 0 1px 5px rgba(0,0,0,0.1); padding: 10px; border: 1px solid; display: block;" class="c8" target="_blank" href="http://www.eastbaysports.net/">East Bay Sports <i style="float: right;" class="fas fa-external-link-alt"></a></h3><br><span class="c1 c11">Sometimes you already have a great website, but you have a bad CMS or no CMS at all. That’s the situation East Bay Sports was in when someone built them a static site. For a low price I was able to take all of the design and development work that had gone into the website and translate it into a WordPress theme with a robust admin panel allowing them to easily update any image, page, menu item, map address, or anything else they want! Not only that, but now they have the power of the WordPress plugin ecosystem on their side, making it easy for them to make their website do more and more for them.</span>
+box-shadow: 0 1px 5px rgba(0,0,0,0.1); padding: 10px; border: 1px solid; display: block;" class="c8" target="_blank" href="http://www.eastbaysports.net/">East Bay Sports <i style="float: right;" class="fas fa-external-link-alt"></i></a></h3><br><span class="c1 c11">Sometimes you already have a great website, but you have a bad CMS or no CMS at all. That’s the situation East Bay Sports was in when someone built them a static site. For a low price I was able to take all of the design and development work that had gone into the website and translate it into a WordPress theme with a robust admin panel allowing them to easily update any image, page, menu item, map address, or anything else they want! Not only that, but now they have the power of the WordPress plugin ecosystem on their side, making it easy for them to make their website do more and more for them.</span>
 </div>
 <div class="web-work-types">
 </div>
@@ -78,7 +78,7 @@ box-shadow: 0 1px 5px rgba(0,0,0,0.1); padding: 10px; border: 1px solid; display
 </div>
 <div style="flex: 1 0 150px; padding-left: 5px;">
     <h3 class="c22 c11" style="margin: 0; padding-top: 0; text-decoration: none;"><a style="border-radius: 2px;
-box-shadow: 0 1px 5px rgba(0,0,0,0.1); padding: 10px; border: 1px solid; display: block;" class="c8" target="_blank" href="https://365producer.com/">365 Producer <i style="float: right;" class="fas fa-external-link-alt"></a></h3><br><span class="c1 c11">Before I showed up these guys were feeling stifled by their LMS. Still a work in progress, the solution we’ve come up with is an integrated eCommerce and eLearning site all built on top of WordPress. It allows students to register, enroll, pay for courses, and take the coursework all online – including lessons, reading, video lectures, discussion boards, homework, interactive web elements and more. This site is a load of fun and is only getting more interesting the deeper we explore the medium.</span>
+box-shadow: 0 1px 5px rgba(0,0,0,0.1); padding: 10px; border: 1px solid; display: block;" class="c8" target="_blank" href="https://365producer.com/">365 Producer <i style="float: right;" class="fas fa-external-link-alt"></i></a></h3><br><span class="c1 c11">Before I showed up these guys were feeling stifled by their LMS. Still a work in progress, the solution we’ve come up with is an integrated eCommerce and eLearning site all built on top of WordPress. It allows students to register, enroll, pay for courses, and take the coursework all online – including lessons, reading, video lectures, discussion boards, homework, interactive web elements and more. This site is a load of fun and is only getting more interesting the deeper we explore the medium.</span>
 </div>
 <div class="web-work-types">
 </div>
@@ -89,7 +89,7 @@ box-shadow: 0 1px 5px rgba(0,0,0,0.1); padding: 10px; border: 1px solid; display
 </div>
 <div style="flex: 1 0 150px; padding-left: 5px;">
     <h3 class="c22 c11" style="margin: 0; padding-top: 0; text-decoration: none;"><a style="border-radius: 2px;
-box-shadow: 0 1px 5px rgba(0,0,0,0.1); padding: 10px; border: 1px solid; display: block;" class="c8" target="_blank" href="https://www.okrantwood.com">Okrant Wood <i style="float: right;" class="fas fa-external-link-alt"></a></h3><br><span class="c1 c11"></span>
+box-shadow: 0 1px 5px rgba(0,0,0,0.1); padding: 10px; border: 1px solid; display: block;" class="c8" target="_blank" href="https://www.okrantwood.com">Okrant Wood <i style="float: right;" class="fas fa-external-link-alt"></i></a></h3><br><span class="c1 c11"></span>
 </div>
 </div>
 
@@ -106,12 +106,9 @@ box-shadow: 0 1px 5px rgba(0,0,0,0.1); padding: 10px; border: 1px solid; display
 <span class="c5 c16">
     <br>
     </span></p><div>
-        <a href="/contact/" class="contact-kyle">Contact me <i class="fal fa-comment" aria-hidden="true"></a>
-        <a class="kyles-links" href="https://kylegrover.com/kyle-grover-resume-2019.pdf">Download full resume as PDF <i class="fas fa-file-pdf" aria-hidden="true"></a><br>
-        <a class="return-home" href="https://kylegrover.com"><i class="fas fa-hand-point-left" aria-hidden="true"> Return to Homepage</a>
-    </div><!-- 
-    <br>
-    <a class="kyles-links" href="/portfolio/">See my web portfolio</a> -->
-
+        <a href="/contact/" class="contact-kyle">Contact me <i class="fal fa-comment" aria-hidden="true"></i></a>
+        <a class="kyles-links" href="https://kylegrover.com/kyle-grover-resume-2019.pdf">Download full resume as PDF <i class="fas fa-file-pdf" aria-hidden="true"></i></a><br>
+        <a class="return-home" href="https://kylegrover.com"><i class="fas fa-hand-point-left" aria-hidden="true"></i> Return to Homepage</a>
+    </div>
 <p></p>
 </div>

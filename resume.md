@@ -52,7 +52,7 @@ title: Resume
 <p class="c3 c6"><span class="c0"></span></p>
     <div class="c7 shadow-box" style="display: flex;">
 <div style="flex: 1 0 150px; position: relative; overflow-y: scroll; padding-right: 5px;">
-    <img src="/uploads/screencapture-willkreiser-2018-04-01-17_58_30.png" style="width: 100%; position: absolute;">
+    <img src="/uploads/screencapture-willkreiser-2018-04-01-17_58_30.png" style="width: 100%; position: absolute; left: 0; top: 0; right: 0;">
 </div>
 <div style="flex: 1 0 150px; padding-left: 5px;">
     <h3 class="c22 c11" style="margin: 0; padding-top: 0; text-decoration: none;"><a style="border-radius: 2px;
@@ -63,7 +63,7 @@ box-shadow: 0 1px 5px rgba(0,0,0,0.1); padding: 10px; border: 1px solid; display
 </div>
     <div class="c7 shadow-box" style="display: flex;">
 <div style="flex: 1 0 150px; position: relative; overflow-y: scroll; padding-right: 5px;">
-    <img src="/uploads/screencapture-eastbaysports-net-livermore-2018-04-01-17_48_29.png" style="width: 100%; position: absolute;">
+    <img src="/uploads/screencapture-eastbaysports-net-livermore-2018-04-01-17_48_29.png" style="width: 100%; position: absolute; left: 0; top: 0; right: 0;">
 </div>
 <div style="flex: 1 0 150px; padding-left: 5px;">
     <h3 class="c22 c11" style="margin: 0; padding-top: 0; text-decoration: none;"><a style="border-radius: 2px;
@@ -74,7 +74,7 @@ box-shadow: 0 1px 5px rgba(0,0,0,0.1); padding: 10px; border: 1px solid; display
 </div>
     <div class="c7 shadow-box" style="display: flex;">
 <div style="flex: 1 0 150px; position: relative; overflow-y: scroll; padding-right: 5px;">
-    <img src="/uploads/screencapture-365producer-production-2018-04-01-09_18_34.png" style="width: 100%; position: absolute;">
+    <img src="/uploads/screencapture-365producer-production-2018-04-01-09_18_34.png" style="width: 100%; position: absolute; left: 0; top: 0; right: 0;">
 </div>
 <div style="flex: 1 0 150px; padding-left: 5px;">
     <h3 class="c22 c11" style="margin: 0; padding-top: 0; text-decoration: none;"><a style="border-radius: 2px;
@@ -85,7 +85,7 @@ box-shadow: 0 1px 5px rgba(0,0,0,0.1); padding: 10px; border: 1px solid; display
 </div>
     <div class="c7 shadow-box" style="display: none;">
 <div style="flex: 1 0 150px; position: relative; overflow-y: scroll; padding-right: 5px;">
-    <img src="/uploads/screencapture-okrantwood-product-madrone-burl-top-with-shedua-sides-2018-03-31-23_13_22.png" style="width: 100%; position: absolute;">
+    <img src="/uploads/screencapture-okrantwood-product-madrone-burl-top-with-shedua-sides-2018-03-31-23_13_22.png" style="width: 100%; position: absolute; left: 0; top: 0; right: 0;">
 </div>
 <div style="flex: 1 0 150px; padding-left: 5px;">
     <h3 class="c22 c11" style="margin: 0; padding-top: 0; text-decoration: none;"><a style="border-radius: 2px;

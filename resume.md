@@ -17,7 +17,7 @@ title: Resume
 <h1 class="c17"><span class="c4">Skills</span></h1>
 <div class="shadow-box" style="padding: 20px 10px 10px;">
 <div class="skill-icons" style="display: flex; justify-content: space-evenly;">
-<span class="fab fa-wordpress"></span><span class="fab fa-html5"></span><span class="fab fa-css3"></span><span class="fas fa-shopping-cart"></span><span class="fas fa-chart-line"></span><span class="fab fa-apple"></span><span class="fab fa-windows"></span><span class="fab fa-linux"></span><span class="fab fa-slack"></span>
+<span class="fab fa-wordpress"></span><span class="fab fa-html5"></span><span class="fab fa-css3"></span><span class="fal fa-shopping-cart"></span><span class="fal fa-chart-line"></span><span class="fab fa-apple"></span><span class="fab fa-windows"></span><span class="fab fa-linux"></span><span class="fab fa-slack"></span>
 </div>
 <p class="c3"><span class="c26"></span></p><h2 class="c28">Web Design/Development:</h2>PHP, JavaScript, WordPress, e-Commerce, HTML5, CSS3 &amp; Sass,  jQuery, SEO &amp; Marketing Analytics, Site Speed Optimization Junkie, Responsive Design<h2 class="c28">Graphic Design:</h2> Photoshop, Illustrator, AfterEffects, Interactive/Generative Art, Apparel Design. <br><br>Very familiar with Windows, Macintosh, and GNU/Linux.<p></p></div>
 <h1 class="c36"><span class="c35">RECENT EMPLOYMENT</span></h1>
@@ -56,7 +56,7 @@ title: Resume
 </div>
 <div style="flex: 1 0 150px; padding-left: 5px;">
     <h3 class="c22 c11" style="margin: 0; padding-top: 0; text-decoration: none;"><a style="border-radius: 2px;
-box-shadow: 0 1px 5px rgba(0,0,0,0.1); padding: 10px; border: 1px solid; display: block;" class="c8" target="_blank" href="https://willkreiser.com/">Will Kreiser <span style="float: right;" class="fas fa-external-link-alt"></span></a></h3><br><span class="c1 c11"><strong>“Help, I’ve been hacked!”</strong><p>When I found out my friend Will’s website had been hacked, of course I offered to help to fix it. We logged into his host, backed up his latest files and databases off the server, and reverted to a previous backup (always keep backups!). But oh no, even on his oldest backup, it was still compromised. Now what, is it totalled?<br>No way. I copied his site to an isolated development environment, purged clearly malicious data and users, deleted questionable plugins, updated everything, and started a security scan. His website was back in action that day</p></span>
+box-shadow: 0 1px 5px rgba(0,0,0,0.1); padding: 10px; border: 1px solid; display: block;" class="c8" target="_blank" href="https://willkreiser.com/">Will Kreiser <span style="float: right;" class="fal fa-external-link-alt"></span></a></h3><br><span class="c1 c11"><strong>“Help, I’ve been hacked!”</strong><p>When I found out my friend Will’s website had been hacked, of course I offered to help to fix it. We logged into his host, backed up his latest files and databases off the server, and reverted to a previous backup (always keep backups!). But oh no, even on his oldest backup, it was still compromised. Now what, is it totalled?<br>No way. I copied his site to an isolated development environment, purged clearly malicious data and users, deleted questionable plugins, updated everything, and started a security scan. His website was back in action that day</p></span>
 </div>
 <div class="web-work-types">
 </div>
@@ -67,7 +67,7 @@ box-shadow: 0 1px 5px rgba(0,0,0,0.1); padding: 10px; border: 1px solid; display
 </div>
 <div style="flex: 1 0 150px; padding-left: 5px;">
     <h3 class="c22 c11" style="margin: 0; padding-top: 0; text-decoration: none;"><a style="border-radius: 2px;
-box-shadow: 0 1px 5px rgba(0,0,0,0.1); padding: 10px; border: 1px solid; display: block;" class="c8" target="_blank" href="http://www.eastbaysports.net/">East Bay Sports <span style="float: right;" class="fas fa-external-link-alt"></span></a></h3><br><span class="c1 c11">Sometimes you already have a great website, but you have a bad CMS or no CMS at all. That’s the situation East Bay Sports was in when someone built them a static site. For a low price I was able to take all of the design and development work that had gone into the website and translate it into a WordPress theme with a robust admin panel allowing them to easily update any image, page, menu item, map address, or anything else they want! Not only that, but now they have the power of the WordPress plugin ecosystem on their side, making it easy for them to make their website do more and more for them.</span>
+box-shadow: 0 1px 5px rgba(0,0,0,0.1); padding: 10px; border: 1px solid; display: block;" class="c8" target="_blank" href="http://www.eastbaysports.net/">East Bay Sports <span style="float: right;" class="fal fa-external-link-alt"></span></a></h3><br><span class="c1 c11">Sometimes you already have a great website, but you have a bad CMS or no CMS at all. That’s the situation East Bay Sports was in when someone built them a static site. For a low price I was able to take all of the design and development work that had gone into the website and translate it into a WordPress theme with a robust admin panel allowing them to easily update any image, page, menu item, map address, or anything else they want! Not only that, but now they have the power of the WordPress plugin ecosystem on their side, making it easy for them to make their website do more and more for them.</span>
 </div>
 <div class="web-work-types">
 </div>
@@ -78,7 +78,7 @@ box-shadow: 0 1px 5px rgba(0,0,0,0.1); padding: 10px; border: 1px solid; display
 </div>
 <div style="flex: 1 0 150px; padding-left: 5px;">
     <h3 class="c22 c11" style="margin: 0; padding-top: 0; text-decoration: none;"><a style="border-radius: 2px;
-box-shadow: 0 1px 5px rgba(0,0,0,0.1); padding: 10px; border: 1px solid; display: block;" class="c8" target="_blank" href="https://365producer.com/">365 Producer <span style="float: right;" class="fas fa-external-link-alt"></span></a></h3><br><span class="c1 c11">Before I showed up these guys were feeling stifled by their LMS. Still a work in progress, the solution we’ve come up with is an integrated eCommerce and eLearning site all built on top of WordPress. It allows students to register, enroll, pay for courses, and take the coursework all online – including lessons, reading, video lectures, discussion boards, homework, interactive web elements and more. This site is a load of fun and is only getting more interesting the deeper we explore the medium.</span>
+box-shadow: 0 1px 5px rgba(0,0,0,0.1); padding: 10px; border: 1px solid; display: block;" class="c8" target="_blank" href="https://365producer.com/">365 Producer <span style="float: right;" class="fal fa-external-link-alt"></span></a></h3><br><span class="c1 c11">Before I showed up these guys were feeling stifled by their LMS. Still a work in progress, the solution we’ve come up with is an integrated eCommerce and eLearning site all built on top of WordPress. It allows students to register, enroll, pay for courses, and take the coursework all online – including lessons, reading, video lectures, discussion boards, homework, interactive web elements and more. This site is a load of fun and is only getting more interesting the deeper we explore the medium.</span>
 </div>
 <div class="web-work-types">
 </div>
@@ -89,7 +89,7 @@ box-shadow: 0 1px 5px rgba(0,0,0,0.1); padding: 10px; border: 1px solid; display
 </div>
 <div style="flex: 1 0 150px; padding-left: 5px;">
     <h3 class="c22 c11" style="margin: 0; padding-top: 0; text-decoration: none;"><a style="border-radius: 2px;
-box-shadow: 0 1px 5px rgba(0,0,0,0.1); padding: 10px; border: 1px solid; display: block;" class="c8" target="_blank" href="https://www.okrantwood.com">Okrant Wood <span style="float: right;" class="fas fa-external-link-alt"></span></a></h3><br><span class="c1 c11"></span>
+box-shadow: 0 1px 5px rgba(0,0,0,0.1); padding: 10px; border: 1px solid; display: block;" class="c8" target="_blank" href="https://www.okrantwood.com">Okrant Wood <span style="float: right;" class="fal fa-external-link-alt"></span></a></h3><br><span class="c1 c11"></span>
 </div>
 </div>
 
@@ -107,8 +107,8 @@ box-shadow: 0 1px 5px rgba(0,0,0,0.1); padding: 10px; border: 1px solid; display
     <br>
     </span></p><div>
         <a href="/contact/" class="contact-kyle">Contact me <span class="fal fa-comment"></span></a>
-        <a class="kyles-links" href="https://kylegrover.com/kyle-grover-resume-2019.pdf">Download full resume as PDF <span class="fas fa-file-pdf"></span></a><br>
-        <a class="return-home" href="https://kylegrover.com"><span class="fas fa-hand-point-left"></span> Return to Homepage</a>
+        <a class="kyles-links" href="https://kylegrover.com/kyle-grover-resume-2019.pdf">Download full resume as PDF <span class="fal fa-file-pdf"></span></a><br>
+        <a class="return-home" href="https://kylegrover.com"><span class="fal fa-hand-point-left"></span> Return to Homepage</a>
     </div>
 <p></p>
 </div>

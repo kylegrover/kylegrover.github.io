@@ -16,14 +16,20 @@ title: Resume
 
 <h1 class="c17"><span class="c4">Skills</span></h1>
 <div class="shadow-box" style="padding: 20px 10px 10px;">
-<div class="skill-icons">
+<div class="skill-icons" style="display: flex; justify-content: space-evenly;">
 <i class="fab fa-wordpress" aria-hidden="true"></i><i class="fab fa-html5" aria-hidden="true"></i><i class="fab fa-css3" aria-hidden="true"></i><i class="fas fa-shopping-cart" aria-hidden="true"></i><i class="fas fa-chart-line" aria-hidden="true"></i><i class="fab fa-apple" aria-hidden="true"></i><i class="fab fa-windows" aria-hidden="true"></i><i class="fab fa-linux" aria-hidden="true"></i><i class="fab fa-slack" aria-hidden="true"></i>
 </div>
 <p class="c3"><span class="c26"></span></p><h2 class="c28">Web Design/Development:</h2>PHP, JavaScript, WordPress, e-Commerce, HTML5, CSS3 &amp; Sass,  jQuery, SEO &amp; Marketing Analytics, Site Speed Optimization Junkie, Responsive Design<h2 class="c28">Graphic Design:</h2> Photoshop, Illustrator, AfterEffects, Interactive/Generative Art, Apparel Design. <br><br>Very familiar with Windows, Macintosh, and GNU/Linux.<p></p></div>
 <h1 class="c36"><span class="c35">RECENT EMPLOYMENT</span></h1>
 <div class="shadow-box" style="padding: 10px;">
+<h2 class="c28"><span>Contractor-Advertising / Goldstein Brossard</span><span class="c16">, </span><span>Watsonville </span><span class="c10 c26 c30">- </span><span class="c10 c38">Design &amp; Development</span></h2>
+<p class="c18"><span class="c10 c12">JAN</span><span class="c31 c10 c12">&nbsp;20</span><span class="c10 c12">16</span><span class="c10 c12 c31">&nbsp;- </span><span class="c10 c12">JUNE 2017, May 2018 - PRESENT</span></p>
+<ul class="c20 lst-kix_q43nwmkvrt8-0 start">
+<li class="c3 c24"><span class="c26">Primary web developer and website manager for a web marketing firm specializing in local business SEO.</span><span class="c1">. </span></li>
+<li class="c3 c24"><span class="c26">Duties included front end and back end development, graphic design, server management and troubleshooting just about everything and anything</span><span class="c31 c26">.</span></li>
+</ul>
 <h2 class="c28"><span>Indigital Studios, Santa Cruz</span><span class="c15 c10">- Webmaster </span></h2>
-<p class="c18"><span class="c9">Aug 2017 - PRESENT</span></p>
+<p class="c18"><span class="c9">Aug 2017 - Mar 2019</span></p>
 <ul class="c20 lst-kix_71cy10c6bo5c-0 start">
 <li class="c3 c24"><span class="c1">Sole webmaster and developer for indigitalstudios.com and 365producer.com. </span></li>
 <li class="c3 c24"><span class="c26">365 Producer is a complex online music school leveraging Wordpress and WooCommerce to both sell and provide classes in an integrated LMS or Learning Management System</span></li>
@@ -33,16 +39,10 @@ title: Resume
 <li class="c3 c24"><span class="c1">Web Developer for a local-focused web design firm and Shopify Plus Expert</span></li>
 <li class="c3 c24"><span class="c26">SEO Advisor, Site Speed Expert, and general all around web-problem-fixer.</span></li>
 </ul><h2 class="c28"><span>Cruz Culture, Santa Cruz</span><span class="c15 c10">- Webmaster </span></h2>
-<p class="c18"><span class="c9">Jan 2016 - PRESENT</span></p>
+<p class="c18"><span class="c9">Jan 2016 - May 2018</span></p>
 <ul class="c20 lst-kix_71cy10c6bo5c-0 start">
 <li class="c3 c24"><span class="c1">Sole webmaster and web developer for a complex WooCommerce site. </span></li>
 <li class="c3 c24"><span class="c26">In one year we drastically simplified and improved his e-business management by condensing 3 sites into one, much more powerful site.</span></li>
-</ul>
-<h2 class="c28"><span>Contractor-Advertising / Goldstein Brossard</span><span class="c16">, </span><span>Watsonville </span><span class="c10 c26 c30">- </span><span class="c10 c38">Design &amp; Development</span></h2>
-<p class="c18"><span class="c10 c12">JAN</span><span class="c31 c10 c12">&nbsp;20</span><span class="c10 c12">16</span><span class="c10 c12 c31">&nbsp;- </span><span class="c10 c12">JUNE 2017</span></p>
-<ul class="c20 lst-kix_q43nwmkvrt8-0 start">
-<li class="c3 c24"><span class="c26">Primary web developer and website manager for 50-or-so sites</span><span class="c1">. </span></li>
-<li class="c3 c24"><span class="c26">Duties included front end and back end development, graphic design, server management and troubleshooting just about everything and anything</span><span class="c31 c26">.</span></li>
 </ul>
 </div>
 <br>

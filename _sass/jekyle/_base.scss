@@ -99,6 +99,13 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: $display-font-weight;
   text-align: left;
 }
+h1, h2 {
+  font-weight: 700;
+  letter-spacing: 1px;
+}
+h3 {
+  font-weight: 600;
+}
 
 p {
   font-family: $paragraph-font-family;

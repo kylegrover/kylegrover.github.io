@@ -19,7 +19,23 @@ title: Resume
 <div class="skill-icons" style="display: flex; justify-content: space-evenly;">
 <span class="fab fa-wordpress"></span><span class="fab fa-html5"></span><span class="fab fa-css3"></span><span class="fal fa-shopping-cart"></span><span class="fal fa-chart-line"></span><span class="fab fa-apple"></span><span class="fab fa-windows"></span><span class="fab fa-linux"></span><span class="fab fa-slack"></span>
 </div>
-<p class="c3"><span class="c26"></span></p><h2 class="c28">Web Design/Development:</h2>PHP, JavaScript, WordPress, e-Commerce, HTML5, CSS3 &amp; Sass,  jQuery, SEO &amp; Marketing Analytics, Site Speed Optimization Junkie, Responsive Design<h2 class="c28">Graphic Design:</h2> Photoshop, Illustrator, AfterEffects, Interactive/Generative Art, Apparel Design. <br><br>Very familiar with Windows, Macintosh, and GNU/Linux.<p></p></div>
+<p class="c3"><span class="c26"></span></p>
+<h2 class="c28">Web Design/Development:</h2>
+<p>Strong Fundamentals: HTML5, CSS3, ES6 JavaScript, HTTP/2, PHP7<br>
+Very experienced with WordPress, Sass, jQuery, Jekyll, Netlify, GSuite<br>
+Some experience with Node, Ionic, React, Angular, Vue, Shopify, SQL<br> 
+Specializing in SEO & Marketing Analytics, Site Speed Optimization, Interactive UI, and e-Commerce</p>
+<h2 class="c28">Graphic Design:</h2>
+<p>Experienced with the standard tools:<br>Photoshop, Illustrator, AfterEffects<br>
+And some less standard tools:<br>Blender3D, Generative/Code Art (GLSL), CSS & SVG Animation, and command line tooling such as AI upscaling and frame interpolation.<br>
+Deep understanding of file formats and image/video compression optimization.</p>
+<h2 class="c28">Software/Programming:</h2>
+<p>Daily user of Windows, Macintosh, and Linux (Ubuntu & Debian)<br>
+Fundamentals: Git, CLI, Networking<br>
+Experience building internal command line and GUI business tools using PHP, Python, Node, and Electron<br>
+Some experience with Ruby, GLSL, Arduino
+</p>
+</div>
 <h1 class="c36"><span class="c35">RECENT EMPLOYMENT</span></h1>
 <div class="shadow-box" style="padding: 10px;">
 <h2 class="c28"><span>Contractor-Advertising / Goldstein Brossard</span><span class="c16">, </span><span>Watsonville </span><span class="c10 c26 c30">- </span><span class="c10 c38">Design &amp; Development</span></h2>

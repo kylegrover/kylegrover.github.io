@@ -3,10 +3,10 @@ layout: page
 title: Projects
 
 ---
-### [Rhythm.Vision](https://rhythm.vision/){:target="_blank"} - Abstract A/V Art (creator, artist)
+### [� aka UFFFD](https://ufffd.com/){:target="_blank"} - Abstract A/V Art (creator, artist)
 
-### [Spectacular.Cloud](https://spectacular.cloud/){:target="_blank"} - Cheap & simple web hosting platform for artists and musicians (creator, developer)
+### [�'s Shader Shop](https://ufffd.com/shader-shop/){:target="_blank"} - Web store for selling my code art, implemented as GLSL & JavaScript "Scenes" for Synesthesia (creator)
 
-### [365 Producer](https://365producer.com/){:target="_blank"} - Santa Cruz's premier recording studio and online learning community (developer)
+### [Sic Branding](https://sicbranding.com/){:target="_blank"} - Cheap & simple design, marketing, and web hosting platform for musicians (creator, developer)
 
 ### [Sub-Freq](https://sub-freq.com/){:target="_blank"} - Video artist collective focused on promoting electronic musicians (video artist / developer)

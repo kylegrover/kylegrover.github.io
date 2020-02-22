@@ -123,7 +123,7 @@ box-shadow: 0 1px 5px rgba(0,0,0,0.1); padding: 10px; border: 1px solid; display
     <br>
     </span></p><div>
         <a href="/contact/" class="contact-kyle">Contact me <span class="fal fa-comment"></span></a>
-        <a class="kyles-links" href="https://kylegrover.com/kyle-grover-resume-2020.pdf">Download full resume as PDF <span class="fal fa-file-pdf"></span></a><br>
+        <a target="_blank" class="kyles-links" href="https://kylegrover.com/kyle-grover-resume-2020.pdf">Download full resume as PDF <span class="fal fa-file-pdf"></span></a><br>
         <a class="return-home" href="https://kylegrover.com"><span class="fal fa-hand-point-left"></span> Return to Homepage</a>
     </div>
 <p></p>

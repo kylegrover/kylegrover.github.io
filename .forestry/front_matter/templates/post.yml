@@ -69,3 +69,5 @@ fields:
       format: markdown
   label: Background GLSL
   description: Only applies if Background is set to GLSL
+pages:
+- _posts/how-to-add-palettes-to.md

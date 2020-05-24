@@ -69,6 +69,3 @@ fields:
       format: markdown
   label: Background GLSL
   description: Only applies if Background is set to GLSL
-pages:
-- _posts/static-sites-vs-wordpress.md
-- _posts/adding-a-slider-to-a-scene-in-synesthesia.md

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Wordpress Sites
+title: WordPress Sites
 
 ---
 ## Starting at $500

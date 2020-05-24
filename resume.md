@@ -1,18 +1,9 @@
 ---
 layout: page
 title: Resume
+
 ---
-<style>
-.svg-inline--fa {
-    height: 32px;
-}
-</style>
-<div>
-<!-- <p class="c19 title"><span class="c31 c37">Kyle Grover</span></p> -->
-<p class="c13 subtitle"><span class="c5">Full Stack Web Developer</span></p>
-<p class="c13 c33"><span class="c10">Specializing in LAMP, WordPress, and JAM Stack</span></p>
-<p class="c13 c33"><span class="c10">Santa Cruz, CA</span></p>
-<p class="c13 c33"><span class="c10">kyle@kylegrover.com</span></p>
+<style> .svg-inline--fa { height: 32px; } </style> <div> <!-- <p class="c19 title"><span class="c31 c37">Kyle Grover</span></p> --> <p class="c13 subtitle"><span class="c5">Front End Web Developer</span></p> <p class="c13 c33"><span class="c10">Specializing in LAMP, WordPress, and Jamstack</span></p> <p class="c13 c33"><span class="c10">Eugene, OR</span></p> <p class="c13 c33"><span class="c10">kyle@kylegrover.com</span></p>
 
 <h1 class="c17"><span class="c4">Skills</span></h1>
 <div class="shadow-box" style="padding: 20px 10px 10px;">
@@ -23,7 +14,7 @@ title: Resume
 <h3 class="c28">WEB DESIGN/DEVELOPMENT:</h3>
 <p>Strong Fundamentals: HTML5, CSS3, ES6 JavaScript, HTTP/2, PHP7<br>
 Very experienced with WordPress, Sass, jQuery, Jekyll, Netlify, GSuite<br>
-Some experience with Node, Ionic, React, Angular, Vue, Shopify, SQL<br> 
+Some experience with Node, Ionic, React, Angular, Vue, Shopify, SQL<br>
 Specializing in SEO & Marketing Analytics, Site Speed Optimization, Interactive UI, and e-Commerce</p>
 <h3 class="c28">GRAPHIC DESIGN:</h3>
 <p>Experienced with the standard tools:<br>Photoshop, Illustrator, AfterEffects<br>
@@ -40,7 +31,7 @@ Some experience with Ruby, GLSL, Arduino
 <div class="shadow-box" style="padding: 10px;">
 <h3 class="c28">CONTRACTOR-ADVERTISING / GOLDSTEIN BROSSARD</h3>
 <h4>Watsonville, CA - Lead Web Developer</h4>
-<p class="c18"><span class="c10 c12">JAN</span><span class="c31 c10 c12">&nbsp;20</span><span class="c10 c12">16</span><span class="c10 c12 c31">&nbsp;- </span><span class="c10 c12">JUNE 2017, May 2018 - PRESENT</span></p>
+<p class="c18"><span class="c10 c12">JAN</span><span class="c31 c10 c12"> 20</span><span class="c10 c12">16</span><span class="c10 c12 c31"> - </span><span class="c10 c12">JUNE 2017, May 2018 - PRESENT</span></p>
 <ul class="c20 lst-kix_q43nwmkvrt8-0 start">
 <li class="c3 c24"><span class="c26">Primary web developer and website manager for a web marketing firm specializing in local business SEO.</span><span class="c1">. </span></li>
 <li class="c3 c24"><span class="c26">Duties included front end and back end development, graphic design, server management and troubleshooting just about everything and anything</span><span class="c31 c26">.</span></li>
@@ -72,45 +63,45 @@ Some experience with Ruby, GLSL, Arduino
 <br>
 <h1 class="c36"><span class="c35">Freelance Projects</span></h1>
 <p class="c3 c6"><span class="c0"></span></p>
-    <div class="c7 shadow-box" style="display: flex;">
+<div class="c7 shadow-box" style="display: flex;">
 <div style="flex: 1 0 150px; position: relative; overflow-y: scroll; padding-right: 5px;">
-    <img src="/uploads/screencapture-willkreiser-2018-04-01-17_58_30.png" style="width: 100%; position: absolute; left: 0; top: 0; right: 0;">
+<img src="/uploads/screencapture-willkreiser-2018-04-01-17_58_30.png" style="width: 100%; position: absolute; left: 0; top: 0; right: 0;">
 </div>
 <div style="flex: 1 0 150px; padding-left: 5px;">
-    <h3 class="c22 c11" style="margin: 0; padding-top: 0; text-decoration: none;"><a style="border-radius: 2px;
+<h3 class="c22 c11" style="margin: 0; padding-top: 0; text-decoration: none;"><a style="border-radius: 2px;
 box-shadow: 0 1px 5px rgba(0,0,0,0.1); padding: 10px; border: 1px solid; display: block;" class="c8" target="_blank" href="https://willkreiser.com/">Will Kreiser <span style="float: right;" class="fal fa-external-link-alt"></span></a></h3><br><span class="c1 c11"><strong>“Help, I’ve been hacked!”</strong><p>When I found out my friend Will’s website had been hacked, of course I offered to help to fix it. We logged into his host, backed up his latest files and databases off the server, and reverted to a previous backup (always keep backups!). But oh no, even on his oldest backup, it was still compromised. Now what, is it totalled?<br>No way. I copied his site to an isolated development environment, purged clearly malicious data and users, deleted questionable plugins, updated everything, and started a security scan. His website was back in action that day</p></span>
 </div>
 <div class="web-work-types">
 </div>
 </div>
-    <div class="c7 shadow-box" style="display: flex;">
+<div class="c7 shadow-box" style="display: flex;">
 <div style="flex: 1 0 150px; position: relative; overflow-y: scroll; padding-right: 5px;">
-    <img src="/uploads/screencapture-eastbaysports-net-livermore-2018-04-01-17_48_29.png" style="width: 100%; position: absolute; left: 0; top: 0; right: 0;">
+<img src="/uploads/screencapture-eastbaysports-net-livermore-2018-04-01-17_48_29.png" style="width: 100%; position: absolute; left: 0; top: 0; right: 0;">
 </div>
 <div style="flex: 1 0 150px; padding-left: 5px;">
-    <h3 class="c22 c11" style="margin: 0; padding-top: 0; text-decoration: none;"><a style="border-radius: 2px;
+<h3 class="c22 c11" style="margin: 0; padding-top: 0; text-decoration: none;"><a style="border-radius: 2px;
 box-shadow: 0 1px 5px rgba(0,0,0,0.1); padding: 10px; border: 1px solid; display: block;" class="c8" target="_blank" href="http://www.eastbaysports.net/">East Bay Sports <span style="float: right;" class="fal fa-external-link-alt"></span></a></h3><br><span class="c1 c11">Sometimes you already have a great website, but you have a bad CMS or no CMS at all. That’s the situation East Bay Sports was in when someone built them a static site. For a low price I was able to take all of the design and development work that had gone into the website and translate it into a WordPress theme with a robust admin panel allowing them to easily update any image, page, menu item, map address, or anything else they want! Not only that, but now they have the power of the WordPress plugin ecosystem on their side, making it easy for them to make their website do more and more for them.</span>
 </div>
 <div class="web-work-types">
 </div>
 </div>
-    <div class="c7 shadow-box" style="display: flex;">
+<div class="c7 shadow-box" style="display: flex;">
 <div style="flex: 1 0 150px; position: relative; overflow-y: scroll; padding-right: 5px;">
-    <img src="/uploads/screencapture-365producer-production-2018-04-01-09_18_34.png" style="width: 100%; position: absolute; left: 0; top: 0; right: 0;">
+<img src="/uploads/screencapture-365producer-production-2018-04-01-09_18_34.png" style="width: 100%; position: absolute; left: 0; top: 0; right: 0;">
 </div>
 <div style="flex: 1 0 150px; padding-left: 5px;">
-    <h3 class="c22 c11" style="margin: 0; padding-top: 0; text-decoration: none;"><a style="border-radius: 2px;
+<h3 class="c22 c11" style="margin: 0; padding-top: 0; text-decoration: none;"><a style="border-radius: 2px;
 box-shadow: 0 1px 5px rgba(0,0,0,0.1); padding: 10px; border: 1px solid; display: block;" class="c8" target="_blank" href="https://365producer.com/">365 Producer <span style="float: right;" class="fal fa-external-link-alt"></span></a></h3><br><span class="c1 c11">Before I showed up these guys were feeling stifled by their LMS. Still a work in progress, the solution we’ve come up with is an integrated eCommerce and eLearning site all built on top of WordPress. It allows students to register, enroll, pay for courses, and take the coursework all online – including lessons, reading, video lectures, discussion boards, homework, interactive web elements and more. This site is a load of fun and is only getting more interesting the deeper we explore the medium.</span>
 </div>
 <div class="web-work-types">
 </div>
 </div>
-    <div class="c7 shadow-box" style="display: none;">
+<div class="c7 shadow-box" style="display: none;">
 <div style="flex: 1 0 150px; position: relative; overflow-y: scroll; padding-right: 5px;">
-    <img src="/uploads/screencapture-okrantwood-product-madrone-burl-top-with-shedua-sides-2018-03-31-23_13_22.png" style="width: 100%; position: absolute; left: 0; top: 0; right: 0;">
+<img src="/uploads/screencapture-okrantwood-product-madrone-burl-top-with-shedua-sides-2018-03-31-23_13_22.png" style="width: 100%; position: absolute; left: 0; top: 0; right: 0;">
 </div>
 <div style="flex: 1 0 150px; padding-left: 5px;">
-    <h3 class="c22 c11" style="margin: 0; padding-top: 0; text-decoration: none;"><a style="border-radius: 2px;
+<h3 class="c22 c11" style="margin: 0; padding-top: 0; text-decoration: none;"><a style="border-radius: 2px;
 box-shadow: 0 1px 5px rgba(0,0,0,0.1); padding: 10px; border: 1px solid; display: block;" class="c8" target="_blank" href="https://www.okrantwood.com">Okrant Wood <span style="float: right;" class="fal fa-external-link-alt"></span></a></h3><br><span class="c1 c11"></span>
 </div>
 </div>
@@ -118,19 +109,19 @@ box-shadow: 0 1px 5px rgba(0,0,0,0.1); padding: 10px; border: 1px solid; display
 <div class="resume-work-pagination">
 <a href="/client-work/">View more client work</a>
 </div>
- 
+
 <!-- <div class="testimonials">
-  
+
 </div> -->
 <p class="c7" style="clear:both;"><span class="c1 c11"><br>Thanks for your interest in my services. Please don’t hesitate to contact me with any questions or inquiries, I’m happy to discuss any project you have in mind.</span></p>
 <p class="c7 c6"><span class="c14 c11 c25"></span></p>
 <p class="c11 c22 subtitle">
 <span class="c5 c16">
-    <br>
-    </span></p><div>
-        <a href="/contact/" class="contact-kyle">Contact me <span class="fal fa-comment"></span></a>
-        <a target="_blank" class="kyles-links" href="https://kylegrover.com/kyle-grover-resume-2020.pdf">Download full resume as PDF <span class="fal fa-file-pdf"></span></a><br>
-        <a class="return-home" href="https://kylegrover.com"><span class="fal fa-hand-point-left"></span> Return to Homepage</a>
-    </div>
+<br>
+</span></p><div>
+<a href="/contact/" class="contact-kyle">Contact me <span class="fal fa-comment"></span></a>
+<a target="_blank" class="kyles-links" href="https://kylegrover.com/kyle-grover-resume-2020.pdf">Download full resume as PDF <span class="fal fa-file-pdf"></span></a><br>
+<a class="return-home" href="https://kylegrover.com"><span class="fal fa-hand-point-left"></span> Return to Homepage</a>
+</div>
 <p></p>
 </div>

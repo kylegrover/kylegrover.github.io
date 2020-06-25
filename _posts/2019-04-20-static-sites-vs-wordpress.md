@@ -10,7 +10,7 @@ background_color: ''
 background_image: ''
 background_glsl: ''
 date: 2019-04-20 18:53:32 +0000
-
+layout: post
 ---
 ## "Is a Static Site Right for Me?"
 
